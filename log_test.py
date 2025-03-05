@@ -9,11 +9,12 @@ import datetime
 import sys
 import random
 import RPi.GPIO as GPIO
+import os
 
 file_name = "test_data_log.csv"
 
-# Setup GPIO
-shutdown_pin = 36
+# Setup Shutdown GPIO
+shutdown_pin = 37
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(shutdown_pin, GPIO.IN)
 
@@ -45,8 +46,9 @@ try:
         # Shutdown Actions
         if GPIO.input(shutdown_pin) == GPIO.HIGH:
             print("Shutdown Detected")
-            log.write("shutdown")
+            log.write("shutdown\n")
             log.close()
+            os.system("sudo shutdown -h now")
             sys.exit()
 
         time.sleep(0.5)
