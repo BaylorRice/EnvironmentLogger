@@ -4,6 +4,10 @@
 # Modified by: Reese Ford 03/05/2025
 # Last Commit: n/a
 
+# Python Environment DHT22: source dht22/bin/activate
+
+import sys
+sys.path.append('/home/pi/Documents/Adafruit_Python_DHT')
 import Adafruit_DHT
 
 sensor = Adafruit_DHT.DHT22
