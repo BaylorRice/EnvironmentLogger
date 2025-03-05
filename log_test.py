@@ -8,8 +8,14 @@ import time
 import datetime
 import sys
 import random
+import RPi.GPIO as GPIO
 
 file_name = "test_data_log.csv"
+
+# Setup GPIO
+shutdown_pin = 36
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(shutdown_pin, GPIO.IN)
 
 # Open log file
 try:
@@ -35,6 +41,13 @@ try:
         hum = random.random()
 
         log.write(current_date_time + "," + str(temp) + "," + str(hum) + "\n")
+        
+        # Shutdown Actions
+        if GPIO.input(shutdown_pin) == GPIO.LOW:
+            print("Shutdown Detected")
+            log.close()
+            sys.exit()
+
         time.sleep(0.5)
 
 except KeyboardInterrupt:
