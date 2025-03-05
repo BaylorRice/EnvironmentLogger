@@ -14,7 +14,7 @@ file_name = "test_data_log.csv"
 
 # Setup GPIO
 shutdown_pin = 36
-GPIO.setmode(GPIO.BCM)
+GPIO.setmode(GPIO.BOARD)
 GPIO.setup(shutdown_pin, GPIO.IN)
 
 # Open log file
@@ -43,8 +43,9 @@ try:
         log.write(current_date_time + "," + str(temp) + "," + str(hum) + "\n")
         
         # Shutdown Actions
-        if GPIO.input(shutdown_pin) == GPIO.LOW:
+        if GPIO.input(shutdown_pin) == GPIO.HIGH:
             print("Shutdown Detected")
+            log.write("shutdown")
             log.close()
             sys.exit()
 
