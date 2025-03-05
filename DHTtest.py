@@ -6,17 +6,27 @@
 
 # Python Environment DHT22: source dht22/bin/activate
 
+import time
+import adafruit_dht
+import board
 import sys
-sys.path.append('/home/pi/Documents/Adafruit_Python_DHT')
-import Adafruit_DHT
 
-sensor = Adafruit_DHT.DHT22
+dht_pin = board.D4
 
-pin = 4
+dht_device = adafruit_dht.DHT22(dht_pin)
+try:
+    while True:
+        try:
+            temp_c = dht_device.temperature
+            temp_f = temp_c * (9 / 5) + 32
+            hum = dht_device.humidity
+            print("Temp = {1:.1f}*F Hum = {}%".format(temp_f, hum))
 
-humidity, temperature = Adafruit_DHT.read_retry(sensor, pin)
+        except RuntimeError as error:
+            print(error.args[0])
 
-if humidity is not None and temperature is not None:
-    print('Temp = {0:0.1f}*C Hum = {1:0.1f}%'.format(temperature, humidity))
-else:
-    print('ERROR - Failed to get reading. Try Again!')
+        time.sleep(0.2)
+
+except KeyboardInterrupt:
+    print("Recieved Keyboard Interrupt")
+    sys.exit()
