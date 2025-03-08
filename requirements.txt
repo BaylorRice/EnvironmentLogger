@@ -1,0 +1,2 @@
+# Pip Install Requirements for Environment Logger
+adafruit-circuitpython-dht == 4.0.7
