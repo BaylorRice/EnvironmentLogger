@@ -13,27 +13,36 @@ import os
 import adafruit_dht
 import board
 
+# Setup Shutdown GPIO
+shutdown_pin = 26 #Board Pin 37
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(shutdown_pin, GPIO.IN)
+
 file_name = "data_log.csv"
 dht_pin = board.D4
 dht_device = adafruit_dht.DHT22(dht_pin)
 
 def read_temp_hum():
+    temp_c = None
+    hum = None
+
     try:
         temp_c = dht_device.temperature
-        temp_f = temp_c * (9 / 5) + 32
         hum = dht_device.humidity
-        print("Temp = {1:.1f}*F Hum = {}%".format(temp_f, hum))
-        return temp_c, hum
-
     except RuntimeError as error:
         print(error.args[0])
-        return "ERROR", "ERROR"
 
+    if temp_c is None:
+        temp_c = "ERROR"
+    else:
+        print("Temp = {1:.1f}*C".format(temp_c))
 
-# Setup Shutdown GPIO
-shutdown_pin = 37
-GPIO.setmode(GPIO.BOARD)
-GPIO.setup(shutdown_pin, GPIO.IN)
+    if hum is None:
+        hum = "ERROR"
+    else:
+        print("Hum = {}%".format(hum))
+
+    return temp_c, hum
 
 # Open log file
 try:
@@ -57,7 +66,12 @@ try:
         current_date_time = current_date_time.strftime("%Y%m%d %H:%M:%S.%f")
         print(current_date_time)
 
-        temp, hum = read_temp_hum()
+        temp = "ERROR"
+        hum = "ERROR"
+
+        data = read_temp_hum()
+        temp = data[0]
+        hum = data[1]
 
         log.write(current_date_time + "," + str(temp) + "," + str(hum) + "\n")
         
