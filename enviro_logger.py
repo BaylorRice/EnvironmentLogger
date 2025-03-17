@@ -10,8 +10,25 @@ import sys
 import random
 import RPi.GPIO as GPIO
 import os
+import adafruit_dht
+import board
 
 file_name = "data_log.csv"
+dht_pin = board.D4
+dht_device = adafruit_dht.DHT22(dht_pin)
+
+def read_temp_hum():
+    try:
+        temp_c = dht_device.temperature
+        temp_f = temp_c * (9 / 5) + 32
+        hum = dht_device.humidity
+        print("Temp = {1:.1f}*F Hum = {}%".format(temp_f, hum))
+        return temp_c, hum
+
+    except RuntimeError as error:
+        print(error.args[0])
+        return "ERROR", "ERROR"
+
 
 # Setup Shutdown GPIO
 shutdown_pin = 37
@@ -40,8 +57,7 @@ try:
         current_date_time = current_date_time.strftime("%Y%m%d %H:%M:%S.%f")
         print(current_date_time)
 
-        temp = random.random()
-        hum = random.random()
+        temp, hum = read_temp_hum()
 
         log.write(current_date_time + "," + str(temp) + "," + str(hum) + "\n")
         
@@ -53,7 +69,7 @@ try:
             os.system("sudo shutdown -h now")
             sys.exit()
 
-        time.sleep(0.5)
+        time.sleep(1)
 
 except KeyboardInterrupt:
     print("Recieved Keyboard Interrupt")
