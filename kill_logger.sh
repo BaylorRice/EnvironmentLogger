@@ -1,5 +1,5 @@
 #!/bin/sh
 # kill_logger.sh
-# Kills logger.py
+# Kills enviro_logger.py
 
-sudo pkill -f logger.p
+sudo pkill -f enviro_logger.py
