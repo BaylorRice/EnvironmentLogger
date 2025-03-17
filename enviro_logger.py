@@ -57,5 +57,6 @@ try:
 
 except KeyboardInterrupt:
     print("Recieved Keyboard Interrupt")
+    log.write("INT,---,---\n")
     log.close()
     sys.exit()
