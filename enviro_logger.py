@@ -32,7 +32,7 @@ try:
     if write_header:
         log.write("DateTime,Temperature (*C),Humidity (%)\n")
     else:
-        log.write("---,---,---\n")
+        log.write("START,---,---\n")
     
     # Log Loop
     while True:
@@ -48,7 +48,7 @@ try:
         # Shutdown Actions
         if GPIO.input(shutdown_pin) == GPIO.HIGH:
             print("Shutdown Detected")
-            log.write("shutdown\n")
+            log.write("STOP,---,---\n")
             log.close()
             os.system("sudo shutdown -h now")
             sys.exit()
