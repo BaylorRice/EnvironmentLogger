@@ -35,7 +35,7 @@ def read_temp_hum():
     if temp_c is None:
         temp_c = "ERROR"
     else:
-        print("Temp = {1:.1f}*C".format(temp_c))
+        print("Temp = {}*C".format(temp_c))
 
     if hum is None:
         hum = "ERROR"
