@@ -4,6 +4,9 @@ Environment Logger for DHT22 (Senior Design)
 ## Circuit Diagram
 ![Image of the circuit diagram of the environment logger. The DHT22 is plugged into GPIO4, and the button is pulled-down and plugged into GPIO26](https://github.com/user-attachments/assets/4c5fbeab-9ffd-4231-b6e5-af0a74767131)
 
+This assumes that the Raspberry Pi is setup already.
+New Pi setup comming soon(tm)
+
 ## To Start
 1. Plug in the Raspberry Pi's USBc cable
 2. That's it. It's logging the temperature and humidity every few seconds.
