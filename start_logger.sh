@@ -1,5 +1,5 @@
 #!/bin/sh
-# launcher.sh
+# start_logger.sh
 # Navigate to home directory, then this directory, then execute python script
 
 cd /
