@@ -1,4 +1,4 @@
-# TempLogger
+# EnvironmentLogger
 Environment Logger for DHT22 (Senior Design)
 
 ## Circuit Diagram
