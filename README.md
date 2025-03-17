@@ -1,2 +1,2 @@
 # TempLogger
-Temperature Logger for DHT20 (Senior Design)
+Temperature Logger for DHT22 (Senior Design)
