@@ -83,7 +83,7 @@ try:
             os.system("sudo shutdown -h now")
             sys.exit()
 
-        time.sleep(1)
+        time.sleep(5)
 
 except KeyboardInterrupt:
     print("Recieved Keyboard Interrupt")
