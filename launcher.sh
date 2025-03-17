@@ -4,5 +4,4 @@
 
 cd /
 cd /home/pi/Documents/TempLogger
-sudo python enviro_logger.py
-
+sudo python enviro_logger.py >> output.log 2>&1
