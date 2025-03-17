@@ -4,4 +4,5 @@
 
 cd /
 cd /home/pi/Documents/TempLogger
+source dht22/bin/activate
 sudo python enviro_logger.py >> output.log 2>&1
