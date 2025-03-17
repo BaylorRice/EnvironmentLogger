@@ -11,7 +11,7 @@ import random
 import RPi.GPIO as GPIO
 import os
 
-file_name = "test_data_log.csv"
+file_name = "data_log.csv"
 
 # Setup Shutdown GPIO
 shutdown_pin = 37
