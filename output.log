@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/pi/Documents/TempLogger/enviro_logger.py", line 13, in <module>
+    import adafruit_dht
+ModuleNotFoundError: No module named 'adafruit_dht'
+Traceback (most recent call last):
+  File "/home/pi/Documents/TempLogger/enviro_logger.py", line 13, in <module>
+    import adafruit_dht
+ModuleNotFoundError: No module named 'adafruit_dht'
