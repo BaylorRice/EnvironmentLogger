@@ -31,6 +31,8 @@ try:
     # Write Header if new file
     if write_header:
         log.write("DateTime,Temperature (*C),Humidity (%)\n")
+    else:
+        log.write("---,---,---\n")
     
     # Log Loop
     while True:
