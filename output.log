@@ -5092,3 +5092,28 @@ Timesync failed: 2
 Temp = 24.7*C
 Hum = 43.6%
 Recieved Keyboard Interrupt
+File Already Exists
+20250319 14:17:48.986495
+Timesync failed: 1
+Temp = 24.7*C
+Hum = 43.7%
+20250319 14:17:54.434142
+Timesync failed: 2
+Temp = 25.0*C
+Hum = 43.0%
+20250319 14:17:59.705706
+Timesync failed: 3
+Checksum did not validate. Try again.
+20250319 14:18:04.977577
+Timesync failed: 4
+Temp = 25.0*C
+Hum = 43.0%
+20250319 14:18:10.271276
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.0*C
+Hum = 43.1%
+20250319 14:18:31.200977
+Temp = 25.0*C
+Hum = 43.3%
+Recieved Keyboard Interrupt
