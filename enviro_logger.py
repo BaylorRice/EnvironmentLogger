@@ -1,7 +1,7 @@
 # Environment Logger Script
 # AMLPPC Environment Logger
 # Created by: Reese Ford 03/17/2025
-# Modified by: Reese Ford 03/17/2025
+# Modified by: Reese Ford 03/19/2025
 # Last Commit: af3bd5cdc8c9868588be0295921087ed6086c350
 
 import time
@@ -12,6 +12,7 @@ import RPi.GPIO as GPIO
 import os
 import adafruit_dht
 import board
+import subprocess
 
 # Setup Shutdown GPIO
 shutdown_pin = 26 #Board Pin 37
@@ -44,6 +45,17 @@ def read_temp_hum():
 
     return temp_c, hum
 
+def is_ntp_synced():
+    try:
+        result = subprocess.run(["timedatectl","show"], capture_output=True, text=True, check=True)
+        output = result.stdout
+        for line in output.split("\n"):
+            if "NTPSynchronized=yes" in line:
+                return True
+    except subprocess.CalledProcessError as e:
+        print("Error executing timedatectl:", e)
+    return False
+
 # Open log file
 try:
     log = open(file_name, "x")
@@ -61,10 +73,22 @@ try:
         log.write("START,---,---\n")
     
     # Log Loop
+    timesynced = False
+    timesync_failcount = 0
     while True:
         current_date_time = datetime.datetime.now()
         current_date_time = current_date_time.strftime("%Y%m%d %H:%M:%S.%f")
         print(current_date_time)
+        if not timesynced and is_ntp_synced() is True:
+            timesynced = True
+        else:
+            timesync_failcount = timesync_failcount + 1
+            print("Timesync failed:",timesync_failcount)
+
+        if timesync_failcount == 5:
+            print("Timesync failed. Restarting service")
+            os.system("sudo systemctl restart systemd-timesyncd")
+            timesync_failcount = 0
 
         temp = "ERROR"
         hum = "ERROR"
@@ -73,8 +97,11 @@ try:
         temp = data[0]
         hum = data[1]
 
-        log.write(current_date_time + "," + str(temp) + "," + str(hum) + "\n")
-        
+        if timesynced:
+            log.write(current_date_time + "," + str(temp) + "," + str(hum) + "\n")
+        else:
+            log.write(current_date_time + "*," + str(temp) + "," + str(hum) + "\n")
+
         # Shutdown Actions
         if GPIO.input(shutdown_pin) == GPIO.HIGH:
             print("Shutdown Detected")
