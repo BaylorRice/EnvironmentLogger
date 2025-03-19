@@ -632,3 +632,12 @@ Traceback (most recent call last):
   File "/home/pi/Documents/TempLogger/enviro_logger.py", line 116, in <module>
     print("Recieved Keyboard Interrupt")
 KeyboardInterrupt
+received SIGINT
+File Already Exists
+20250319 12:18:06.944444
+Temp = 24.0*C
+Hum = 44.8%
+20250319 12:18:12.349670
+Timesync failed: 1
+Recieved Keyboard Interrupt
+51, 25, 50, 25, 51, 25, 50, 25, 50, 25, 51, 25, 50, 25, 51, 69, 51, 69, 50, 26, 49, 70, 49, 70, 49, 70, 49, 69, 51, 25, 50, 26, 50, 26, 50, 25, 50, 25, 51, 26, 49, 25, 51, 25, 50, 25, 51, 26, 50, 69, 50, 69, 82, 37, 50, 69, 51, 25, 49, 26, 50, 69, 50, 70, 50, 69, 50, 26, 49, 69, 50, 70, 50, 25, 50, 26, 50, 25, 50, 26, 50
