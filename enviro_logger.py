@@ -79,11 +79,12 @@ try:
         current_date_time = datetime.datetime.now()
         current_date_time = current_date_time.strftime("%Y%m%d %H:%M:%S.%f")
         print(current_date_time)
-        if not timesynced and is_ntp_synced() is True:
-            timesynced = True
-        else:
-            timesync_failcount = timesync_failcount + 1
-            print("Timesync failed:",timesync_failcount)
+        if not timesynced:
+            if is_ntp_synced() is True:
+                timesynced = True
+            else:
+                timesync_failcount = timesync_failcount + 1
+                print("Timesync failed:",timesync_failcount)
 
         if timesync_failcount == 5:
             print("Timesync failed. Restarting service")
