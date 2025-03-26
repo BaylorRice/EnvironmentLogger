@@ -13531,3 +13531,6592 @@ Traceback (most recent call last):
   File "/home/pi/Documents/TempLogger/enviro_logger.py", line 117, in <module>
     print("Recieved Keyboard Interrupt")
 KeyboardInterrupt
+File Already Exists
+20250324 12:24:16.304904
+Timesync failed: 1
+Temp = 23.8*C
+Hum = 47.7%
+20250324 12:24:21.735112
+Timesync failed: 2
+Temp = 23.9*C
+Hum = 46.9%
+20250324 12:24:27.270224
+Timesync failed: 3
+Temp = 23.9*C
+Hum = 46.7%
+20250324 12:24:32.567581
+Timesync failed: 4
+Temp = 23.9*C
+Hum = 46.5%
+20250324 12:24:37.841489
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.0*C
+Hum = 46.5%
+20250324 12:24:43.371654
+Timesync failed: 1
+Temp = 24.0*C
+Hum = 46.4%
+20250324 12:24:48.659949
+Timesync failed: 2
+Temp = 24.0*C
+Hum = 46.3%
+20250324 12:24:53.931694
+Timesync failed: 3
+Temp = 24.0*C
+Hum = 46.2%
+20250324 12:24:59.228813
+Timesync failed: 4
+Temp = 24.0*C
+Hum = 46.2%
+20250324 12:25:04.524272
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.1*C
+Hum = 46.2%
+20250324 12:25:10.101415
+Timesync failed: 1
+Temp = 24.1*C
+Hum = 46.2%
+20250324 12:25:15.689298
+Timesync failed: 2
+Temp = 24.1*C
+Hum = 46.1%
+20250324 12:25:20.986310
+Timesync failed: 3
+Temp = 24.1*C
+Hum = 46.1%
+20250324 12:25:26.289714
+Timesync failed: 4
+Temp = 24.2*C
+Hum = 46.1%
+20250324 12:25:31.583449
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.2*C
+Hum = 46.1%
+20250324 12:25:37.081766
+Timesync failed: 1
+Temp = 24.2*C
+Hum = 46.1%
+20250324 12:25:42.373337
+Timesync failed: 2
+Temp = 24.2*C
+Hum = 46.1%
+20250324 12:25:47.666073
+Timesync failed: 3
+Temp = 24.2*C
+Hum = 46.0%
+20250324 12:25:52.963910
+Timesync failed: 4
+Temp = 24.2*C
+Hum = 45.9%
+20250324 12:25:58.256618
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.3*C
+Hum = 45.9%
+20250324 12:26:03.773771
+Timesync failed: 1
+Temp = 24.3*C
+Hum = 45.9%
+20250324 12:26:09.079364
+Timesync failed: 2
+Temp = 24.3*C
+Hum = 45.9%
+20250324 12:26:14.376892
+Timesync failed: 3
+Temp = 24.3*C
+Hum = 45.9%
+20250324 12:26:19.673922
+Timesync failed: 4
+Temp = 24.3*C
+Hum = 45.9%
+20250324 12:26:24.970015
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.3*C
+Hum = 45.8%
+20250324 12:26:30.453637
+Timesync failed: 1
+Temp = 24.3*C
+Hum = 45.8%
+20250324 12:26:35.749813
+Timesync failed: 2
+Temp = 24.3*C
+Hum = 45.7%
+20250324 12:26:41.042589
+Timesync failed: 3
+Temp = 24.4*C
+Hum = 45.7%
+20250324 12:26:46.339591
+Timesync failed: 4
+Temp = 24.4*C
+Hum = 45.7%
+20250324 12:26:51.636978
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.3*C
+Hum = 45.7%
+20250324 12:26:57.114170
+Timesync failed: 1
+Temp = 24.3*C
+Hum = 45.7%
+20250324 12:27:02.411038
+Timesync failed: 2
+Temp = 24.3*C
+Hum = 45.7%
+20250324 12:27:07.707581
+Timesync failed: 3
+Temp = 24.3*C
+Hum = 45.7%
+20250324 12:27:13.066637
+Timesync failed: 4
+Temp = 24.4*C
+Hum = 45.7%
+20250324 12:27:18.363883
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.3*C
+Hum = 45.6%
+20250324 12:27:23.861778
+Timesync failed: 1
+Temp = 24.4*C
+Hum = 45.6%
+20250324 12:27:29.154391
+Timesync failed: 2
+Temp = 24.4*C
+Hum = 45.6%
+20250324 12:27:34.447892
+Timesync failed: 3
+Temp = 24.5*C
+Hum = 45.6%
+20250324 12:27:39.747195
+Timesync failed: 4
+Temp = 24.5*C
+Hum = 45.5%
+20250324 12:27:45.041344
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.5*C
+Hum = 45.5%
+20250324 12:27:50.521157
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 45.4%
+20250324 12:27:55.819057
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 45.3%
+20250324 12:28:01.115875
+Timesync failed: 3
+Temp = 24.7*C
+Hum = 45.2%
+20250324 12:28:06.412730
+Timesync failed: 4
+Temp = 24.7*C
+Hum = 45.0%
+20250324 12:28:11.790927
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.8*C
+Hum = 44.9%
+20250324 12:28:17.283474
+Timesync failed: 1
+Temp = 24.8*C
+Hum = 44.8%
+20250324 12:28:22.585341
+Timesync failed: 2
+Temp = 24.9*C
+Hum = 44.8%
+20250324 12:28:27.882499
+Timesync failed: 3
+Temp = 24.9*C
+Hum = 44.7%
+20250324 12:28:33.174861
+Timesync failed: 4
+Temp = 25.0*C
+Hum = 44.7%
+20250324 12:28:38.467931
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.0*C
+Hum = 44.6%
+20250324 12:28:43.982419
+Timesync failed: 1
+Temp = 25.0*C
+Hum = 44.6%
+20250324 12:28:49.335393
+Timesync failed: 2
+Temp = 25.1*C
+Hum = 44.5%
+20250324 12:28:54.632526
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 44.4%
+20250324 12:28:59.930010
+Timesync failed: 4
+Temp = 25.2*C
+Hum = 44.3%
+20250324 12:29:05.226167
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.2*C
+Hum = 44.2%
+20250324 12:29:10.752912
+Timesync failed: 1
+Temp = 25.3*C
+Hum = 44.2%
+20250324 12:29:16.485772
+Timesync failed: 2
+Temp = 25.3*C
+Hum = 44.1%
+20250324 12:29:21.831391
+Timesync failed: 3
+Temp = 25.3*C
+Hum = 44.1%
+20250324 12:29:27.129745
+Timesync failed: 4
+Temp = 25.4*C
+Hum = 44.0%
+20250324 12:29:32.426319
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.4*C
+Hum = 44.0%
+20250324 12:29:37.913277
+Timesync failed: 1
+Temp = 25.4*C
+Hum = 43.9%
+20250324 12:29:43.333273
+Timesync failed: 2
+Temp = 25.4*C
+Hum = 43.8%
+20250324 12:29:48.624577
+Timesync failed: 3
+Temp = 25.5*C
+Hum = 43.8%
+20250324 12:29:53.921914
+Timesync failed: 4
+Temp = 25.5*C
+Hum = 43.7%
+20250324 12:29:59.218988
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.5*C
+Hum = 43.7%
+20250324 12:30:04.749975
+Timesync failed: 1
+Temp = 25.5*C
+Hum = 43.6%
+20250324 12:30:10.040915
+Timesync failed: 2
+Temp = 25.5*C
+Hum = 43.6%
+20250324 12:30:15.334433
+Timesync failed: 3
+Temp = 25.5*C
+Hum = 43.5%
+20250324 12:30:20.709763
+Timesync failed: 4
+Temp = 25.5*C
+Hum = 43.5%
+20250324 12:30:26.009263
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.5*C
+Hum = 43.5%
+20250324 12:30:31.530692
+Timesync failed: 1
+Temp = 25.5*C
+Hum = 43.4%
+20250324 12:30:36.831464
+Timesync failed: 2
+Temp = 25.6*C
+Hum = 43.4%
+20250324 12:30:42.187492
+Timesync failed: 3
+Temp = 25.6*C
+Hum = 43.4%
+20250324 12:30:47.496997
+Timesync failed: 4
+Temp = 25.6*C
+Hum = 43.3%
+20250324 12:30:52.793887
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.6*C
+Hum = 43.3%
+20250324 12:30:58.265628
+Timesync failed: 1
+Temp = 25.6*C
+Hum = 43.3%
+20250324 12:31:03.577016
+Timesync failed: 2
+Temp = 25.6*C
+Hum = 43.3%
+20250324 12:31:08.873992
+Timesync failed: 3
+Temp = 25.6*C
+Hum = 43.2%
+20250324 12:31:14.173660
+Timesync failed: 4
+Temp = 25.6*C
+Hum = 43.2%
+20250324 12:31:19.471050
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.6*C
+Hum = 43.1%
+20250324 12:31:25.030746
+Timesync failed: 1
+Temp = 25.6*C
+Hum = 43.2%
+20250324 12:31:30.379372
+Timesync failed: 2
+Temp = 25.6*C
+Hum = 43.2%
+20250324 12:31:35.724378
+Timesync failed: 3
+Temp = 25.6*C
+Hum = 43.2%
+20250324 12:31:41.014927
+Timesync failed: 4
+Temp = 25.6*C
+Hum = 43.2%
+20250324 12:31:46.311117
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.6*C
+Hum = 43.2%
+20250324 12:31:51.800500
+Timesync failed: 1
+Temp = 25.6*C
+Hum = 43.2%
+20250324 12:31:57.091098
+Timesync failed: 2
+Temp = 25.6*C
+Hum = 43.2%
+20250324 12:32:02.399331
+Timesync failed: 3
+Temp = 25.6*C
+Hum = 43.2%
+20250324 12:32:07.705248
+Timesync failed: 4
+Temp = 25.6*C
+Hum = 43.2%
+20250324 12:32:13.043194
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.6*C
+Hum = 43.3%
+20250324 12:32:18.517766
+Timesync failed: 1
+Temp = 25.6*C
+Hum = 43.3%
+20250324 12:32:23.819359
+Timesync failed: 2
+Temp = 25.7*C
+Hum = 43.4%
+20250324 12:32:29.155385
+Timesync failed: 3
+Temp = 25.7*C
+Hum = 43.4%
+20250324 12:32:34.452081
+Timesync failed: 4
+Temp = 25.7*C
+Hum = 43.3%
+20250324 12:32:39.748948
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.7*C
+Hum = 43.3%
+20250324 12:32:45.237649
+Timesync failed: 1
+Temp = 25.7*C
+Hum = 43.4%
+20250324 12:32:50.587415
+Timesync failed: 2
+Temp = 25.7*C
+Hum = 43.3%
+20250324 12:32:55.892534
+Timesync failed: 3
+Temp = 25.7*C
+Hum = 43.3%
+20250324 12:33:01.199328
+Timesync failed: 4
+Temp = 25.7*C
+Hum = 43.3%
+20250324 12:33:06.496576
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.7*C
+Hum = 43.2%
+20250324 12:33:12.031948
+Timesync failed: 1
+Temp = 25.7*C
+Hum = 43.2%
+20250324 12:33:17.477962
+Timesync failed: 2
+Temp = 25.7*C
+Hum = 43.2%
+20250324 12:33:22.770120
+Timesync failed: 3
+Temp = 25.7*C
+Hum = 43.2%
+20250324 12:33:28.075232
+Timesync failed: 4
+Temp = 25.7*C
+Hum = 43.2%
+20250324 12:33:33.372127
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.7*C
+Hum = 43.2%
+20250324 12:33:38.944014
+Timesync failed: 1
+Temp = 25.8*C
+Hum = 43.1%
+20250324 12:33:44.243334
+Timesync failed: 2
+Temp = 25.7*C
+Hum = 43.2%
+20250324 12:33:49.536938
+Timesync failed: 3
+Temp = 25.8*C
+Hum = 43.2%
+20250324 12:33:54.834296
+Timesync failed: 4
+Temp = 25.8*C
+Hum = 43.3%
+20250324 12:34:00.130680
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.8*C
+Hum = 43.2%
+20250324 12:34:05.745323
+Timesync failed: 1
+Temp = 25.8*C
+Hum = 43.3%
+20250324 12:34:11.042150
+Timesync failed: 2
+Temp = 25.8*C
+Hum = 43.3%
+20250324 12:34:16.335870
+Timesync failed: 3
+Temp = 25.8*C
+Hum = 43.3%
+20250324 12:34:21.640993
+Timesync failed: 4
+Temp = 25.8*C
+Hum = 43.3%
+20250324 12:34:26.938165
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.8*C
+Hum = 43.2%
+20250324 12:34:32.417765
+Timesync failed: 1
+Temp = 25.8*C
+Hum = 43.2%
+20250324 12:34:38.185071
+Timesync failed: 2
+Temp = 25.8*C
+Hum = 43.2%
+20250324 12:34:43.487339
+Timesync failed: 3
+Temp = 25.8*C
+Hum = 43.2%
+20250324 12:34:48.864622
+Timesync failed: 4
+Temp = 25.9*C
+Hum = 43.2%
+20250324 12:34:54.203513
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.9*C
+Hum = 43.2%
+20250324 12:34:59.721400
+Timesync failed: 1
+Temp = 25.9*C
+Hum = 43.2%
+20250324 12:35:05.018687
+Timesync failed: 2
+Temp = 25.9*C
+Hum = 43.2%
+20250324 12:35:10.319434
+Timesync failed: 3
+Temp = 25.9*C
+Hum = 43.2%
+20250324 12:35:15.611895
+Timesync failed: 4
+Temp = 25.9*C
+Hum = 43.2%
+20250324 12:35:20.908300
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.9*C
+Hum = 43.2%
+20250324 12:35:26.436164
+Timesync failed: 1
+Temp = 25.9*C
+Hum = 43.2%
+20250324 12:35:31.729526
+Timesync failed: 2
+Temp = 25.9*C
+Hum = 43.2%
+20250324 12:35:37.026477
+Timesync failed: 3
+Temp = 25.9*C
+Hum = 43.2%
+20250324 12:35:42.323188
+Timesync failed: 4
+Temp = 26.0*C
+Hum = 43.2%
+20250324 12:35:47.640994
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.0*C
+Hum = 43.2%
+20250324 12:35:53.244862
+Timesync failed: 1
+Temp = 26.0*C
+Hum = 43.1%
+20250324 12:35:58.551403
+Timesync failed: 2
+Temp = 26.0*C
+Hum = 43.0%
+20250324 12:36:03.847756
+Timesync failed: 3
+Temp = 26.0*C
+Hum = 43.1%
+20250324 12:36:09.144168
+Timesync failed: 4
+Temp = 26.0*C
+Hum = 43.1%
+20250324 12:36:14.441735
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.0*C
+Hum = 43.0%
+20250324 12:36:20.462027
+Timesync failed: 1
+Temp = 26.0*C
+Hum = 43.0%
+20250324 12:36:25.765009
+Timesync failed: 2
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:36:31.065001
+Timesync failed: 3
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:36:36.361407
+Timesync failed: 4
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:36:41.661292
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:36:47.149787
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.9%
+20250324 12:36:52.449899
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 43.0%
+20250324 12:36:57.825229
+Timesync failed: 3
+Temp = 26.0*C
+Hum = 43.0%
+20250324 12:37:03.159326
+Timesync failed: 4
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:37:08.454697
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:37:13.949666
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.9%
+20250324 12:37:19.242057
+Timesync failed: 2
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:37:24.545131
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.9%
+20250324 12:37:29.838877
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.9%
+20250324 12:37:35.130832
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.9%
+20250324 12:37:40.613020
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:37:45.910027
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:37:51.207156
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:37:56.500028
+Timesync failed: 4
+Temp = 26.0*C
+Hum = 42.8%
+20250324 12:38:01.796760
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:38:07.317501
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:38:12.614975
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:38:17.911987
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:38:23.208923
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:38:28.501086
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:38:33.984891
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:38:39.281850
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:38:44.578013
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:38:49.874765
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:38:55.170096
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:39:00.681937
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:39:05.979628
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:39:11.272652
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:39:16.570770
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:39:21.862725
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:39:27.368697
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:39:32.659196
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:39:37.956599
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:39:43.249211
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:39:48.545458
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:39:54.055251
+Timesync failed: 1
+Temp = 26.0*C
+Hum = 42.8%
+20250324 12:39:59.346540
+Timesync failed: 2
+Temp = 26.0*C
+Hum = 42.8%
+20250324 12:40:04.639495
+Timesync failed: 3
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:40:09.939246
+Timesync failed: 4
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:40:15.235794
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:40:20.716710
+Timesync failed: 1
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:40:26.013674
+Timesync failed: 2
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:40:31.309934
+Timesync failed: 3
+Temp = 26.0*C
+Hum = 42.9%
+20250324 12:40:36.606563
+Timesync failed: 4
+Temp = 26.0*C
+Hum = 42.8%
+20250324 12:40:41.898079
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.0*C
+Hum = 42.8%
+20250324 12:40:47.394778
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:40:52.701749
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.8%
+20250324 12:40:58.047362
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:41:03.345165
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:41:08.637059
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.7%
+20250324 12:41:14.116674
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.6%
+20250324 12:41:19.414542
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:41:24.711822
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:41:30.009330
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:41:35.335229
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:41:40.848290
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:41:46.144536
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:41:51.440517
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:41:56.738745
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:42:02.036096
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.6%
+20250324 12:42:07.511557
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:42:13.165259
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:42:18.465051
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:42:23.767677
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:42:29.146784
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.4%
+20250324 12:42:34.622159
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.4%
+20250324 12:42:40.000527
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.4%
+20250324 12:42:45.296848
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:42:50.594084
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:42:55.885681
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:43:01.517782
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:43:06.829672
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:43:12.128038
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:43:17.483274
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.4%
+20250324 12:43:22.777377
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:43:28.249925
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:43:33.545929
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:43:39.145027
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:43:44.499452
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:43:49.847343
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:43:55.365371
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:44:00.655494
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.4%
+20250324 12:44:05.956976
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:44:11.251239
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:44:16.547919
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:44:22.019611
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:44:27.371428
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:44:32.937052
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:44:38.236995
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.4%
+20250324 12:44:43.539694
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.4%
+20250324 12:44:49.081114
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.4%
+20250324 12:44:54.434637
+Timesync failed: 2
+Temp = 26.1*C
+Hum = 42.5%
+20250324 12:44:59.917010
+Timesync failed: 3
+Temp = 26.1*C
+Hum = 42.3%
+20250324 12:45:05.209280
+Timesync failed: 4
+Temp = 26.1*C
+Hum = 42.3%
+20250324 12:45:10.509326
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.1*C
+Hum = 42.3%
+20250324 12:45:15.992403
+Timesync failed: 1
+Temp = 26.1*C
+Hum = 42.3%
+20250324 12:45:21.773071
+Timesync failed: 2
+Temp = 26.0*C
+Hum = 42.3%
+20250324 12:45:27.070357
+Timesync failed: 3
+Temp = 26.0*C
+Hum = 42.3%
+20250324 12:45:32.367785
+Timesync failed: 4
+Temp = 26.0*C
+Hum = 42.4%
+20250324 12:45:37.665089
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 26.0*C
+Hum = 42.4%
+20250324 12:45:43.183582
+Timesync failed: 1
+Temp = 25.9*C
+Hum = 42.4%
+20250324 12:45:48.535399
+Timesync failed: 2
+Temp = 25.9*C
+Hum = 42.4%
+20250324 12:45:53.827768
+Timesync failed: 3
+Temp = 25.9*C
+Hum = 42.4%
+20250324 12:45:59.132557
+Timesync failed: 4
+Temp = 25.9*C
+Hum = 42.5%
+20250324 12:46:04.429445
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.9*C
+Hum = 42.5%
+20250324 12:46:09.914159
+Timesync failed: 1
+Temp = 25.9*C
+Hum = 42.5%
+20250324 12:46:15.254895
+Timesync failed: 2
+Temp = 25.9*C
+Hum = 42.6%
+20250324 12:46:20.547161
+Timesync failed: 3
+Temp = 25.8*C
+Hum = 42.5%
+20250324 12:46:25.852560
+Timesync failed: 4
+Temp = 25.8*C
+Hum = 42.6%
+20250324 12:46:31.159359
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.8*C
+Hum = 42.5%
+20250324 12:46:36.639703
+Timesync failed: 1
+Temp = 25.8*C
+Hum = 42.6%
+20250324 12:46:42.408998
+Timesync failed: 2
+Temp = 25.8*C
+Hum = 42.6%
+20250324 12:46:47.705778
+Timesync failed: 3
+Temp = 25.7*C
+Hum = 42.6%
+20250324 12:46:53.051372
+Timesync failed: 4
+Temp = 25.7*C
+Hum = 42.6%
+20250324 12:46:58.347467
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.7*C
+Hum = 42.6%
+20250324 12:47:03.871488
+Timesync failed: 1
+Temp = 25.7*C
+Hum = 42.7%
+20250324 12:47:09.182629
+Timesync failed: 2
+Temp = 25.7*C
+Hum = 42.7%
+20250324 12:47:14.601660
+Timesync failed: 3
+Temp = 25.7*C
+Hum = 42.8%
+20250324 12:47:19.902311
+Timesync failed: 4
+Temp = 25.6*C
+Hum = 42.8%
+20250324 12:47:25.197613
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.6*C
+Hum = 42.8%
+20250324 12:47:30.697282
+Timesync failed: 1
+Temp = 25.5*C
+Hum = 42.8%
+20250324 12:47:35.990125
+Timesync failed: 2
+Temp = 25.5*C
+Hum = 42.9%
+20250324 12:47:41.289262
+Timesync failed: 3
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:47:46.697049
+Timesync failed: 4
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:47:51.989724
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:47:57.470116
+Timesync failed: 1
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:48:02.766938
+Timesync failed: 2
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:48:08.145628
+Timesync failed: 3
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:48:13.441367
+Timesync failed: 4
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:48:18.787405
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.5*C
+Hum = 43.1%
+20250324 12:48:24.311992
+Timesync failed: 1
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:48:30.057094
+Timesync failed: 2
+Temp = 25.5*C
+Hum = 43.1%
+20250324 12:48:35.411381
+Timesync failed: 3
+Temp = 25.5*C
+Hum = 43.1%
+20250324 12:48:40.704840
+Timesync failed: 4
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:48:45.997606
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.5*C
+Hum = 43.1%
+20250324 12:48:51.507632
+Timesync failed: 1
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:48:56.811354
+Timesync failed: 2
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:49:02.107021
+Timesync failed: 3
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:49:07.403184
+Timesync failed: 4
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:49:12.700454
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.5*C
+Hum = 43.0%
+20250324 12:49:18.221368
+Timesync failed: 1
+Temp = 25.4*C
+Hum = 43.1%
+20250324 12:49:23.518425
+Timesync failed: 2
+Temp = 25.4*C
+Hum = 43.1%
+20250324 12:49:28.810301
+Timesync failed: 3
+Temp = 25.4*C
+Hum = 43.1%
+20250324 12:49:34.185091
+Timesync failed: 4
+Temp = 25.4*C
+Hum = 43.1%
+20250324 12:49:39.539441
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.4*C
+Hum = 43.2%
+20250324 12:49:45.046951
+Timesync failed: 1
+Temp = 25.4*C
+Hum = 43.2%
+20250324 12:49:50.338203
+Timesync failed: 2
+Temp = 25.4*C
+Hum = 43.2%
+20250324 12:49:55.634391
+Timesync failed: 3
+Temp = 25.3*C
+Hum = 43.2%
+20250324 12:50:00.930571
+Timesync failed: 4
+Temp = 25.3*C
+Hum = 43.2%
+20250324 12:50:06.223541
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.3*C
+Hum = 43.2%
+20250324 12:50:11.751438
+Timesync failed: 1
+Temp = 25.3*C
+Hum = 43.2%
+20250324 12:50:17.049298
+Timesync failed: 2
+Temp = 25.3*C
+Hum = 43.2%
+20250324 12:50:22.359304
+Timesync failed: 3
+Temp = 25.2*C
+Hum = 43.3%
+20250324 12:50:27.711284
+Timesync failed: 4
+Temp = 25.3*C
+Hum = 43.3%
+20250324 12:50:33.009187
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.2*C
+Hum = 43.3%
+20250324 12:50:38.493783
+Timesync failed: 1
+Temp = 25.2*C
+Hum = 43.4%
+20250324 12:50:43.784984
+Timesync failed: 2
+Temp = 25.2*C
+Hum = 43.4%
+20250324 12:50:49.135389
+Timesync failed: 3
+Temp = 25.2*C
+Hum = 43.4%
+20250324 12:50:54.433111
+Timesync failed: 4
+Temp = 25.2*C
+Hum = 43.4%
+20250324 12:50:59.729706
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.1*C
+Hum = 43.4%
+20250324 12:51:05.245354
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.4%
+20250324 12:51:10.985019
+Timesync failed: 2
+Temp = 25.1*C
+Hum = 43.5%
+20250324 12:51:16.289708
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 43.5%
+20250324 12:51:21.607430
+Timesync failed: 4
+Temp = 25.1*C
+Hum = 43.5%
+20250324 12:51:26.919467
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.1*C
+Hum = 43.6%
+20250324 12:51:32.443677
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.6%
+20250324 12:51:38.189000
+Timesync failed: 2
+Temp = 25.1*C
+Hum = 43.6%
+20250324 12:51:43.497761
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 43.7%
+20250324 12:51:48.797728
+Timesync failed: 4
+Temp = 25.0*C
+Hum = 43.6%
+20250324 12:51:54.151303
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.1*C
+Hum = 43.6%
+20250324 12:51:59.647748
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.6%
+20250324 12:52:04.991451
+Timesync failed: 2
+Temp = 25.0*C
+Hum = 43.6%
+20250324 12:52:10.533045
+Timesync failed: 3
+Temp = 25.0*C
+Hum = 43.7%
+20250324 12:52:15.832765
+Timesync failed: 4
+Temp = 25.0*C
+Hum = 43.6%
+20250324 12:52:21.129375
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.0*C
+Hum = 43.7%
+20250324 12:52:26.642812
+Timesync failed: 1
+Temp = 25.0*C
+Hum = 43.7%
+20250324 12:52:32.397768
+Timesync failed: 2
+Temp = 25.0*C
+Hum = 43.7%
+20250324 12:52:37.693652
+Timesync failed: 3
+Temp = 25.0*C
+Hum = 43.7%
+20250324 12:52:42.999427
+Timesync failed: 4
+Temp = 25.0*C
+Hum = 43.7%
+20250324 12:52:48.293018
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.0*C
+Hum = 43.7%
+20250324 12:52:53.825766
+Timesync failed: 1
+Temp = 25.0*C
+Hum = 43.8%
+20250324 12:52:59.122162
+Timesync failed: 2
+Temp = 24.9*C
+Hum = 43.8%
+20250324 12:53:04.413801
+Timesync failed: 3
+Temp = 24.9*C
+Hum = 43.8%
+20250324 12:53:09.706465
+Timesync failed: 4
+Temp = 24.9*C
+Hum = 43.8%
+20250324 12:53:15.013744
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.9*C
+Hum = 43.9%
+20250324 12:53:20.501379
+Timesync failed: 1
+Temp = 24.9*C
+Hum = 43.8%
+20250324 12:53:25.793766
+Timesync failed: 2
+Temp = 24.9*C
+Hum = 43.9%
+20250324 12:53:31.087190
+Timesync failed: 3
+Temp = 24.9*C
+Hum = 43.9%
+20250324 12:53:36.383667
+Timesync failed: 4
+Temp = 24.9*C
+Hum = 43.9%
+20250324 12:53:41.681461
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.8*C
+Hum = 43.9%
+20250324 12:53:47.225378
+Timesync failed: 1
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:53:52.571438
+Timesync failed: 2
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:53:57.949137
+Timesync failed: 3
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:54:03.249750
+Timesync failed: 4
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:54:08.545288
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:54:14.011479
+Timesync failed: 1
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:54:19.307518
+Timesync failed: 2
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:54:24.603929
+Timesync failed: 3
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:54:29.899416
+Timesync failed: 4
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:54:35.192994
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:54:40.665624
+Timesync failed: 1
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:54:45.963286
+Timesync failed: 2
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:54:51.259157
+Timesync failed: 3
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:54:56.551613
+Timesync failed: 4
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:55:01.848197
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:55:07.348070
+Timesync failed: 1
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:55:12.638673
+Timesync failed: 2
+Temp = 24.8*C
+Hum = 44.0%
+20250324 12:55:17.935329
+Timesync failed: 3
+Temp = 24.8*C
+Hum = 44.1%
+20250324 12:55:23.231828
+Timesync failed: 4
+Temp = 24.8*C
+Hum = 44.1%
+20250324 12:55:28.528870
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.7*C
+Hum = 44.0%
+20250324 12:55:34.034353
+Timesync failed: 1
+Temp = 24.7*C
+Hum = 44.1%
+20250324 12:55:39.331847
+Timesync failed: 2
+Temp = 24.7*C
+Hum = 44.1%
+20250324 12:55:44.805324
+Timesync failed: 3
+Temp = 24.7*C
+Hum = 44.0%
+20250324 12:55:50.101547
+Timesync failed: 4
+Temp = 24.8*C
+Hum = 44.1%
+20250324 12:55:55.405717
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.7*C
+Hum = 44.1%
+20250324 12:56:00.881940
+Timesync failed: 1
+Temp = 24.7*C
+Hum = 44.1%
+20250324 12:56:06.179166
+Timesync failed: 2
+Temp = 24.7*C
+Hum = 44.1%
+20250324 12:56:11.629286
+Timesync failed: 3
+Temp = 24.7*C
+Hum = 44.2%
+20250324 12:56:16.925267
+Timesync failed: 4
+Temp = 24.7*C
+Hum = 44.2%
+20250324 12:56:22.232918
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.7*C
+Hum = 44.2%
+20250324 12:56:27.748718
+Timesync failed: 1
+Temp = 24.7*C
+Hum = 44.2%
+20250324 12:56:33.040868
+Timesync failed: 2
+Temp = 24.7*C
+Hum = 44.2%
+20250324 12:56:38.339277
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.2%
+20250324 12:56:43.707381
+Timesync failed: 4
+Temp = 24.6*C
+Hum = 44.3%
+20250324 12:56:49.015186
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.3%
+20250324 12:56:54.495142
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.3%
+20250324 12:57:00.009345
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.3%
+20250324 12:57:05.307308
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.3%
+20250324 12:57:10.600307
+Timesync failed: 4
+Temp = 24.6*C
+Hum = 44.4%
+20250324 12:57:15.896985
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.3%
+20250324 12:57:21.468056
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.4%
+20250324 12:57:26.843446
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.4%
+20250324 12:57:32.134024
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.4%
+20250324 12:57:37.431508
+Timesync failed: 4
+Temp = 24.6*C
+Hum = 44.4%
+20250324 12:57:42.728573
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.5%
+20250324 12:57:48.229410
+Timesync failed: 1
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:57:53.526849
+Timesync failed: 2
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:57:58.819838
+Timesync failed: 3
+Temp = 24.5*C
+Hum = 44.5%
+20250324 12:58:04.116104
+Timesync failed: 4
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:58:09.471446
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:58:15.009896
+Timesync failed: 1
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:58:20.305979
+Timesync failed: 2
+Temp = 24.5*C
+Hum = 44.5%
+20250324 12:58:25.599079
+Timesync failed: 3
+Temp = 24.5*C
+Hum = 44.5%
+20250324 12:58:30.895608
+Timesync failed: 4
+Temp = 24.5*C
+Hum = 44.5%
+20250324 12:58:36.186945
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.5*C
+Hum = 44.5%
+20250324 12:58:41.681558
+Timesync failed: 1
+Temp = 24.5*C
+Hum = 44.5%
+20250324 12:58:46.974671
+Timesync failed: 2
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:58:52.270743
+Timesync failed: 3
+Temp = 24.5*C
+Hum = 44.5%
+20250324 12:58:57.564018
+Timesync failed: 4
+Temp = 24.5*C
+Hum = 44.5%
+20250324 12:59:02.859644
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:59:08.397372
+Timesync failed: 1
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:59:13.703489
+Timesync failed: 2
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:59:19.240989
+Timesync failed: 3
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:59:24.544375
+Timesync failed: 4
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:59:29.873964
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.5*C
+Hum = 44.4%
+20250324 12:59:35.353100
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.4%
+20250324 12:59:40.732169
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.3%
+20250324 12:59:46.033721
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.4%
+20250324 12:59:51.329869
+Timesync failed: 4
+Temp = 24.6*C
+Hum = 44.3%
+20250324 12:59:56.626794
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.3%
+20250324 13:00:02.146950
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.3%
+20250324 13:00:07.445286
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.3%
+20250324 13:00:13.000959
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.3%
+20250324 13:00:18.305981
+Timesync failed: 4
+Temp = 24.6*C
+Hum = 44.3%
+20250324 13:00:23.603389
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.3%
+20250324 13:00:29.090430
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.3%
+20250324 13:00:34.383200
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.3%
+20250324 13:00:39.676751
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:00:44.973009
+Timesync failed: 4
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:00:50.271234
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:00:55.761300
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.3%
+20250324 13:01:01.053826
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:01:06.403356
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.3%
+20250324 13:01:11.785737
+Timesync failed: 4
+Temp = 24.6*C
+Hum = 44.3%
+20250324 13:01:17.077923
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:01:22.617432
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:01:27.917272
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:01:33.295702
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:01:38.595392
+Timesync failed: 4
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:01:43.893009
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:01:49.410375
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:01:54.889339
+Timesync failed: 2
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:02:00.231501
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:02:05.529394
+Timesync failed: 4
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:02:10.875445
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:02:16.383501
+Timesync failed: 1
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:02:21.675244
+Timesync failed: 2
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:02:26.971527
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:02:32.268278
+Timesync failed: 4
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:02:37.561190
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:02:43.046042
+Timesync failed: 1
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:02:48.338463
+Timesync failed: 2
+Temp = 24.7*C
+Hum = 44.0%
+20250324 13:02:53.635670
+Timesync failed: 3
+Temp = 24.7*C
+Hum = 44.0%
+20250324 13:02:58.932344
+Timesync failed: 4
+Temp = 24.7*C
+Hum = 44.0%
+20250324 13:03:04.225384
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:03:09.782686
+Timesync failed: 1
+Temp = 24.7*C
+Hum = 44.0%
+20250324 13:03:15.080347
+Timesync failed: 2
+Temp = 24.7*C
+Hum = 44.0%
+20250324 13:03:20.376415
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:03:25.672604
+Timesync failed: 4
+Temp = 24.7*C
+Hum = 44.0%
+20250324 13:03:30.969187
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:03:36.485987
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:03:41.777132
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:03:47.073369
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:03:52.366654
+Timesync failed: 4
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:03:57.662818
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:04:03.175625
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:04:08.472797
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:04:13.769387
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:04:19.066173
+Timesync failed: 4
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:04:24.358969
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:04:29.875430
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:04:35.172981
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:04:40.465317
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:04:45.761657
+Timesync failed: 4
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:04:51.058023
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:04:56.566873
+Timesync failed: 1
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:05:01.863797
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:05:07.161088
+Timesync failed: 3
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:05:12.457758
+Timesync failed: 4
+Temp = 24.7*C
+Hum = 44.2%
+20250324 13:05:17.755249
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.6*C
+Hum = 44.2%
+20250324 13:05:23.269316
+Timesync failed: 1
+Temp = 24.7*C
+Hum = 44.2%
+20250324 13:05:28.560433
+Timesync failed: 2
+Temp = 24.6*C
+Hum = 44.1%
+20250324 13:05:33.858625
+Timesync failed: 3
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:05:39.156363
+Timesync failed: 4
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:05:44.452892
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:05:49.939586
+Timesync failed: 1
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:05:55.232109
+Timesync failed: 2
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:06:00.525244
+Timesync failed: 3
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:06:05.871347
+Timesync failed: 4
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:06:11.172183
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:06:16.700551
+Timesync failed: 1
+Temp = 24.7*C
+Hum = 44.1%
+20250324 13:06:21.998741
+Timesync failed: 2
+Temp = 24.7*C
+Hum = 44.0%
+20250324 13:06:27.294863
+Timesync failed: 3
+Temp = 24.8*C
+Hum = 44.0%
+20250324 13:06:32.589268
+Timesync failed: 4
+Temp = 24.8*C
+Hum = 44.0%
+20250324 13:06:37.892463
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.8*C
+Hum = 44.0%
+20250324 13:06:43.394254
+Timesync failed: 1
+Temp = 24.8*C
+Hum = 43.9%
+20250324 13:06:48.685790
+Timesync failed: 2
+Temp = 24.8*C
+Hum = 43.8%
+20250324 13:06:53.979696
+Timesync failed: 3
+Temp = 24.9*C
+Hum = 43.9%
+20250324 13:06:59.276301
+Timesync failed: 4
+Temp = 24.9*C
+Hum = 43.9%
+20250324 13:07:04.572941
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.9*C
+Hum = 43.8%
+20250324 13:07:10.081192
+Timesync failed: 1
+Temp = 24.9*C
+Hum = 43.8%
+20250324 13:07:15.379165
+Timesync failed: 2
+Temp = 24.9*C
+Hum = 43.7%
+20250324 13:07:20.675022
+Timesync failed: 3
+Temp = 24.9*C
+Hum = 43.7%
+20250324 13:07:25.967345
+Timesync failed: 4
+Temp = 24.9*C
+Hum = 43.7%
+20250324 13:07:31.262832
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.9*C
+Hum = 43.7%
+20250324 13:07:36.798103
+Timesync failed: 1
+Temp = 25.0*C
+Hum = 43.7%
+20250324 13:07:42.094357
+Timesync failed: 2
+Temp = 25.0*C
+Hum = 43.6%
+20250324 13:07:47.493266
+Timesync failed: 3
+Temp = 24.9*C
+Hum = 43.6%
+20250324 13:07:52.790326
+Timesync failed: 4
+Temp = 25.0*C
+Hum = 43.7%
+20250324 13:07:58.087954
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.9*C
+Hum = 43.6%
+20250324 13:08:03.562463
+Timesync failed: 1
+Temp = 25.0*C
+Hum = 43.7%
+20250324 13:08:08.861287
+Timesync failed: 2
+Temp = 25.0*C
+Hum = 43.6%
+20250324 13:08:14.154040
+Timesync failed: 3
+Temp = 25.0*C
+Hum = 43.6%
+20250324 13:08:19.455739
+Timesync failed: 4
+Temp = 25.0*C
+Hum = 43.6%
+20250324 13:08:24.751679
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.0*C
+Hum = 43.6%
+20250324 13:08:30.247353
+Timesync failed: 1
+Temp = 25.0*C
+Hum = 43.6%
+20250324 13:08:35.545288
+Timesync failed: 2
+Temp = 25.0*C
+Hum = 43.6%
+20250324 13:08:40.873236
+Timesync failed: 3
+Temp = 25.0*C
+Hum = 43.6%
+20250324 13:08:46.168259
+Timesync failed: 4
+Temp = 25.0*C
+Hum = 43.5%
+20250324 13:08:51.481742
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.0*C
+Hum = 43.6%
+20250324 13:08:56.958274
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:09:02.255172
+Timesync failed: 2
+Temp = 25.0*C
+Hum = 43.6%
+20250324 13:09:07.552655
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 43.6%
+20250324 13:09:12.857292
+Timesync failed: 4
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:09:18.155333
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.1*C
+Hum = 43.6%
+20250324 13:09:24.297197
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.6%
+20250324 13:09:29.603444
+Timesync failed: 2
+Temp = 25.1*C
+Hum = 43.6%
+20250324 13:09:34.905023
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:09:40.202074
+Timesync failed: 4
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:09:45.495561
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:09:50.982651
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:09:56.279811
+Timesync failed: 2
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:10:01.573264
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:10:06.869125
+Timesync failed: 4
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:10:12.162935
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:10:17.647185
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.4%
+20250324 13:10:22.938472
+Timesync failed: 2
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:10:28.233656
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 43.6%
+20250324 13:10:33.533041
+Timesync failed: 4
+Temp = 25.1*C
+Hum = 43.6%
+20250324 13:10:38.825171
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.1*C
+Hum = 43.7%
+20250324 13:10:44.338689
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.6%
+20250324 13:10:49.629668
+Timesync failed: 2
+Temp = 25.1*C
+Hum = 43.6%
+20250324 13:10:54.929903
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:11:00.226069
+Timesync failed: 4
+Temp = 25.1*C
+Hum = 43.5%
+20250324 13:11:05.522124
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.1*C
+Hum = 43.4%
+20250324 13:11:11.001305
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.4%
+20250324 13:11:16.298575
+Timesync failed: 2
+Temp = 25.1*C
+Hum = 43.4%
+20250324 13:11:21.595127
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 43.4%
+20250324 13:11:26.887852
+Timesync failed: 4
+Temp = 25.2*C
+Hum = 43.4%
+20250324 13:11:32.184676
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.2*C
+Hum = 43.4%
+20250324 13:11:37.686472
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.3%
+20250324 13:11:42.985036
+Timesync failed: 2
+Temp = 25.1*C
+Hum = 43.3%
+20250324 13:11:48.277527
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 43.3%
+20250324 13:11:53.573864
+Timesync failed: 4
+Temp = 25.1*C
+Hum = 43.2%
+20250324 13:11:58.877735
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.1*C
+Hum = 43.2%
+20250324 13:12:04.393765
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.2%
+20250324 13:12:09.705361
+Timesync failed: 2
+Temp = 25.1*C
+Hum = 43.3%
+20250324 13:12:15.003393
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 43.3%
+20250324 13:12:20.300359
+Timesync failed: 4
+Temp = 25.1*C
+Hum = 43.2%
+20250324 13:12:25.597568
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.1*C
+Hum = 43.3%
+20250324 13:12:31.087485
+Timesync failed: 1
+Temp = 25.1*C
+Hum = 43.2%
+20250324 13:12:36.384375
+Timesync failed: 2
+Temp = 25.1*C
+Hum = 43.2%
+20250324 13:12:41.680614
+Timesync failed: 3
+Temp = 25.1*C
+Hum = 43.3%
+20250324 13:12:46.987407
+Timesync failed: 4
+Temp = 25.1*C
+Hum = 43.3%
+20250324 13:12:52.284351
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.1*C
+Hum = 43.3%
+20250324 13:12:57.774538
+Timesync failed: 1
+Temp = 25.0*C
+Hum = 43.3%
+20250324 13:13:03.071117
+Timesync failed: 2
+Temp = 25.0*C
+Hum = 43.3%
+20250324 13:13:08.366037
+Timesync failed: 3
+Temp = 25.0*C
+Hum = 43.3%
+20250324 13:13:13.659227
+Timesync failed: 4
+Temp = 25.0*C
+Hum = 43.3%
+20250324 13:13:18.965742
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.0*C
+Hum = 43.3%
+20250324 13:13:24.467018
+Timesync failed: 1
+Temp = 25.0*C
+Hum = 43.3%
+20250324 13:13:29.763254
+Timesync failed: 2
+Temp = 25.0*C
+Hum = 43.3%
+20250324 13:13:35.056520
+Timesync failed: 3
+Temp = 25.0*C
+Hum = 43.3%
+20250324 13:13:40.373739
+Timesync failed: 4
+Temp = 24.9*C
+Hum = 43.4%
+20250324 13:13:45.678255
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 25.0*C
+Hum = 43.4%
+20250324 13:13:51.813111
+Timesync failed: 1
+Temp = 24.9*C
+Hum = 43.3%
+20250324 13:13:57.110252
+Timesync failed: 2
+Temp = 24.9*C
+Hum = 43.4%
+20250324 13:14:02.410361
+Timesync failed: 3
+Temp = 24.9*C
+Hum = 43.4%
+20250324 13:14:07.707571
+Timesync failed: 4
+Temp = 24.9*C
+Hum = 43.4%
+20250324 13:14:13.004290
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.9*C
+Hum = 43.4%
+20250324 13:14:18.504905
+Timesync failed: 1
+Temp = 24.9*C
+Hum = 43.4%
+Shutdown Detected
+File Already Exists
+20250324 13:14:23.991105
+Timesync failed: 1
+Temp = 23.9*C
+Hum = 51.0%
+20250324 13:14:29.429104
+Timesync failed: 2
+Temp = 24.0*C
+Hum = 49.1%
+20250324 13:14:34.714215
+Timesync failed: 3
+Temp = 24.0*C
+Hum = 48.6%
+20250324 13:14:39.989420
+Timesync failed: 4
+Temp = 24.0*C
+Hum = 48.2%
+20250324 13:14:45.298758
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.0*C
+Hum = 47.9%
+20250325 14:06:24.772646
+Temp = 24.0*C
+Hum = 47.6%
+20250325 14:06:30.070080
+Temp = 24.1*C
+Hum = 47.5%
+20250325 14:06:35.324097
+Temp = 24.1*C
+Hum = 47.3%
+20250325 14:06:40.578045
+Temp = 24.1*C
+Hum = 47.2%
+20250325 14:06:45.831870
+Temp = 24.1*C
+Hum = 47.1%
+20250325 14:06:51.089017
+Temp = 24.1*C
+Hum = 47.1%
+20250325 14:06:56.343223
+Temp = 24.1*C
+Hum = 47.2%
+20250325 14:07:01.597442
+Temp = 24.0*C
+Hum = 47.1%
+20250325 14:07:06.851529
+Temp = 24.1*C
+Hum = 47.0%
+20250325 14:07:12.105418
+Temp = 24.1*C
+Hum = 47.0%
+20250325 14:07:17.359461
+Temp = 24.1*C
+Hum = 47.0%
+20250325 14:07:22.616555
+Temp = 24.1*C
+Hum = 47.0%
+20250325 14:07:27.870459
+Temp = 24.1*C
+Hum = 46.9%
+20250325 14:07:33.124378
+Temp = 24.1*C
+Hum = 46.9%
+20250325 14:07:38.378176
+Temp = 24.1*C
+Hum = 46.9%
+20250325 14:07:43.631973
+Temp = 24.1*C
+Hum = 46.9%
+20250325 14:07:48.885905
+Temp = 24.1*C
+Hum = 46.9%
+20250325 14:07:54.139773
+Temp = 24.1*C
+Hum = 46.9%
+20250325 14:07:59.396744
+Temp = 24.1*C
+Hum = 46.9%
+20250325 14:08:04.653818
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:08:09.909657
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:08:15.174536
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:08:20.428311
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:08:25.682195
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:08:30.936104
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:08:36.189962
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:08:41.447100
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:08:46.700807
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:08:51.955868
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:08:57.209677
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:09:02.466703
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:09:07.720573
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:09:12.974428
+Temp = 24.1*C
+Hum = 46.8%
+20250325 14:09:18.228260
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:09:23.481942
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:09:28.738921
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:09:33.992768
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:09:39.246586
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:09:44.500099
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:09:49.753806
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:09:55.007670
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:10:00.261505
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:10:05.515322
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:10:10.769524
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:10:16.023499
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:10:21.277304
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:10:26.534481
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:10:31.788597
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:10:37.043161
+Temp = 24.1*C
+Hum = 46.7%
+20250325 14:10:42.300521
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:10:47.554692
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:10:52.808782
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:10:58.062774
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:11:03.316721
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:11:08.570710
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:11:13.824498
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:11:19.078673
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:11:24.332428
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:11:29.586008
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:11:34.839871
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:11:40.093701
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:11:45.350612
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:11:50.604291
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:11:55.861332
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:12:01.115086
+Temp = 24.2*C
+Hum = 46.6%
+20250325 14:12:06.371998
+Temp = 24.2*C
+Hum = 46.5%
+20250325 14:12:11.628956
+Temp = 24.2*C
+Hum = 46.5%
+20250325 14:12:16.882782
+Temp = 24.2*C
+Hum = 46.5%
+20250325 14:12:22.136623
+Temp = 24.2*C
+Hum = 46.5%
+20250325 14:12:27.390414
+Temp = 24.2*C
+Hum = 46.5%
+20250325 14:12:32.644272
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:12:37.898091
+Temp = 24.2*C
+Hum = 46.5%
+20250325 14:12:43.151914
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:12:48.405720
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:12:53.659442
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:12:58.916396
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:13:04.170221
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:13:09.423966
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:13:14.677766
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:13:19.931435
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:13:25.185217
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:13:30.442192
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:13:35.695924
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:13:40.949636
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:13:46.203419
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:13:51.460320
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:13:56.717391
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:14:01.971170
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:14:07.225028
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:14:12.478784
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:14:17.732365
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:14:22.989350
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:14:28.243168
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:14:33.496707
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:14:38.750410
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:14:44.004142
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:14:49.257782
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:14:54.511608
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:14:59.765261
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:15:05.018974
+Temp = 24.0*C
+Hum = 46.6%
+20250325 14:15:10.272754
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:15:15.526540
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:15:20.780210
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:15:26.033957
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:15:31.287742
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:15:36.541489
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:15:41.798506
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:15:47.052267
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:15:52.306060
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:15:57.563085
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:16:02.816807
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:16:08.072588
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:16:13.326466
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:16:18.580350
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:16:23.834088
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:16:29.087818
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:16:34.341560
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:16:39.595258
+Temp = 24.2*C
+Hum = 46.4%
+20250325 14:16:44.849014
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:16:50.102825
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:16:55.356577
+Temp = 24.2*C
+Hum = 46.4%
+20250325 14:17:00.610273
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:17:05.867334
+Temp = 24.2*C
+Hum = 46.4%
+20250325 14:17:11.121208
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:17:16.374994
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:17:21.628674
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:17:26.882444
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:17:32.136316
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:17:37.393393
+Temp = 24.1*C
+Hum = 46.4%
+20250325 14:17:42.647088
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:17:47.900826
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:17:53.154669
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:17:58.411531
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:18:03.665193
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:18:08.918971
+Temp = 24.0*C
+Hum = 46.6%
+20250325 14:18:14.174525
+Temp = 24.0*C
+Hum = 46.6%
+20250325 14:18:19.431475
+Temp = 24.0*C
+Hum = 46.6%
+20250325 14:18:24.685167
+Temp = 24.0*C
+Hum = 46.6%
+20250325 14:18:29.938932
+Temp = 24.0*C
+Hum = 46.6%
+20250325 14:18:35.192772
+Temp = 24.0*C
+Hum = 46.6%
+20250325 14:18:40.446462
+Temp = 24.0*C
+Hum = 46.6%
+20250325 14:18:45.703378
+Temp = 24.0*C
+Hum = 46.6%
+20250325 14:18:50.957117
+Temp = 24.0*C
+Hum = 46.6%
+20250325 14:18:56.210911
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:01.464571
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:06.718230
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:11.975317
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:17.229114
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:22.488179
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:27.741805
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:32.995586
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:38.252610
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:43.506309
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:48.763450
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:54.017149
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:19:59.274313
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:20:04.527980
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:20:09.781675
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:20:15.035527
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:20:20.292414
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:20:25.546067
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:20:30.799820
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:20:36.053651
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:20:41.310653
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:20:46.567611
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:20:51.821291
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:20:57.075117
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:21:02.331972
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:21:07.585673
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:21:12.839472
+Temp = 24.2*C
+Hum = 46.5%
+20250325 14:21:18.093416
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:21:23.347119
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:21:28.600817
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:21:33.854565
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:21:39.108369
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:21:44.365225
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:21:49.618926
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:21:54.872906
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:22:00.126623
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:22:05.383540
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:22:10.637277
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:22:15.891123
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:22:21.144722
+Temp = 24.1*C
+Hum = 46.6%
+20250325 14:22:26.401847
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:22:31.658914
+Temp = 24.1*C
+Hum = 46.5%
+20250325 14:22:36.912808
+Temp = 24.1*C
+Hum = 46.6%
+Shutdown Detected
+File Already Exists
+20250325 14:22:41.939591
+Timesync failed: 1
+Temp = 22.1*C
+Hum = 54.2%
+20250325 14:22:47.377629
+Timesync failed: 2
+Temp = 22.1*C
+Hum = 55.7%
+20250325 14:22:52.649285
+Timesync failed: 3
+Temp = 22.1*C
+Hum = 55.3%
+20250325 14:22:57.923714
+Timesync failed: 4
+Temp = 22.1*C
+Hum = 55.0%
+20250325 14:23:03.196435
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 22.1*C
+Hum = 54.7%
+20250326 09:19:42.314933
+Temp = 22.2*C
+Hum = 54.5%
+20250326 09:19:47.636459
+Temp = 22.2*C
+Hum = 54.3%
+20250326 09:19:52.890507
+Temp = 22.2*C
+Hum = 54.2%
+20250326 09:19:58.150665
+Temp = 22.2*C
+Hum = 54.1%
+20250326 09:20:03.407699
+Temp = 22.2*C
+Hum = 54.0%
+20250326 09:20:08.661725
+Temp = 22.2*C
+Hum = 54.0%
+20250326 09:20:13.916027
+Temp = 22.2*C
+Hum = 53.9%
+20250326 09:20:19.170871
+Temp = 22.3*C
+Hum = 53.8%
+20250326 09:20:24.425251
+Temp = 22.3*C
+Hum = 53.8%
+20250326 09:20:29.682496
+Temp = 22.3*C
+Hum = 53.8%
+20250326 09:20:34.936553
+Temp = 22.3*C
+Hum = 53.7%
+20250326 09:20:40.190484
+Temp = 22.3*C
+Hum = 53.7%
+20250326 09:20:45.444313
+Temp = 22.3*C
+Hum = 53.6%
+20250326 09:20:50.698173
+Temp = 22.3*C
+Hum = 53.6%
+20250326 09:20:55.952091
+Temp = 22.4*C
+Hum = 53.5%
+20250326 09:21:01.205876
+Temp = 22.4*C
+Hum = 53.5%
+20250326 09:21:06.459649
+Temp = 22.4*C
+Hum = 53.4%
+20250326 09:21:11.713498
+Temp = 22.4*C
+Hum = 53.4%
+20250326 09:21:16.967356
+Temp = 22.4*C
+Hum = 53.4%
+20250326 09:21:22.221089
+Temp = 22.4*C
+Hum = 53.3%
+20250326 09:21:27.474852
+Temp = 22.4*C
+Hum = 53.3%
+20250326 09:21:32.728664
+Temp = 22.5*C
+Hum = 53.2%
+20250326 09:21:37.982591
+Temp = 22.5*C
+Hum = 53.1%
+20250326 09:21:43.236488
+Temp = 22.5*C
+Hum = 53.1%
+20250326 09:21:48.493542
+Temp = 22.5*C
+Hum = 53.1%
+20250326 09:21:53.747444
+Temp = 22.5*C
+Hum = 53.0%
+20250326 09:21:59.001338
+Temp = 22.5*C
+Hum = 52.9%
+20250326 09:22:04.255216
+Temp = 22.5*C
+Hum = 52.9%
+20250326 09:22:09.509068
+Temp = 22.5*C
+Hum = 52.9%
+20250326 09:22:14.762941
+Temp = 22.6*C
+Hum = 52.8%
+20250326 09:22:20.016833
+Temp = 22.6*C
+Hum = 52.8%
+20250326 09:22:25.270691
+Temp = 22.6*C
+Hum = 52.8%
+20250326 09:22:30.524990
+Temp = 22.6*C
+Hum = 52.8%
+20250326 09:22:35.799667
+Temp = 22.6*C
+Hum = 52.7%
+20250326 09:22:41.053504
+Temp = 22.6*C
+Hum = 52.7%
+20250326 09:22:46.307209
+Temp = 22.6*C
+Hum = 52.6%
+20250326 09:22:51.564234
+Temp = 22.6*C
+Hum = 52.6%
+20250326 09:22:56.818086
+Temp = 22.6*C
+Hum = 52.6%
+20250326 09:23:02.071807
+Temp = 22.6*C
+Hum = 52.6%
+20250326 09:23:07.325525
+Temp = 22.6*C
+Hum = 52.6%
+20250326 09:23:12.579307
+Temp = 22.6*C
+Hum = 52.6%
+20250326 09:23:17.836432
+Temp = 22.6*C
+Hum = 52.6%
+20250326 09:23:23.089907
+Temp = 22.6*C
+Hum = 52.6%
+20250326 09:23:28.343670
+Temp = 22.6*C
+Hum = 52.5%
+20250326 09:23:33.597539
+Temp = 22.6*C
+Hum = 52.5%
+20250326 09:23:38.851350
+Temp = 22.6*C
+Hum = 52.5%
+20250326 09:23:44.108413
+Temp = 22.6*C
+Hum = 52.5%
+20250326 09:23:49.362276
+Temp = 22.6*C
+Hum = 52.5%
+20250326 09:23:54.616147
+Temp = 22.6*C
+Hum = 52.5%
+20250326 09:23:59.869983
+Temp = 22.6*C
+Hum = 52.5%
+20250326 09:24:05.123721
+Temp = 22.6*C
+Hum = 52.4%
+20250326 09:24:10.377575
+Temp = 22.6*C
+Hum = 52.4%
+20250326 09:24:15.635292
+Temp = 22.6*C
+Hum = 52.4%
+20250326 09:24:20.889178
+Temp = 22.7*C
+Hum = 52.4%
+20250326 09:24:26.142879
+Temp = 22.7*C
+Hum = 52.4%
+20250326 09:24:31.396616
+Temp = 22.7*C
+Hum = 52.3%
+20250326 09:24:36.650450
+Temp = 22.7*C
+Hum = 52.3%
+20250326 09:24:41.904371
+Temp = 22.7*C
+Hum = 52.2%
+20250326 09:24:47.158182
+Temp = 22.7*C
+Hum = 52.2%
+20250326 09:24:52.411917
+Temp = 22.8*C
+Hum = 52.2%
+20250326 09:24:57.665739
+Temp = 22.8*C
+Hum = 52.1%
+20250326 09:25:02.919560
+Temp = 22.8*C
+Hum = 52.1%
+20250326 09:25:08.173304
+Temp = 22.8*C
+Hum = 52.0%
+20250326 09:25:13.427139
+Temp = 22.9*C
+Hum = 52.0%
+20250326 09:25:18.680984
+Temp = 22.9*C
+Hum = 51.9%
+20250326 09:25:23.934825
+Temp = 22.9*C
+Hum = 51.9%
+20250326 09:25:29.188558
+Temp = 22.9*C
+Hum = 51.8%
+20250326 09:25:34.442369
+Temp = 22.9*C
+Hum = 51.8%
+20250326 09:25:39.696131
+Temp = 23.0*C
+Hum = 51.7%
+20250326 09:25:44.949973
+Temp = 23.0*C
+Hum = 51.7%
+20250326 09:25:50.203798
+Temp = 23.0*C
+Hum = 51.6%
+20250326 09:25:55.457614
+Temp = 23.0*C
+Hum = 51.6%
+20250326 09:26:00.711477
+Temp = 23.0*C
+Hum = 51.5%
+20250326 09:26:05.965267
+Temp = 23.0*C
+Hum = 51.5%
+20250326 09:26:11.219007
+Temp = 23.1*C
+Hum = 51.4%
+20250326 09:26:16.472873
+Temp = 23.1*C
+Hum = 51.4%
+20250326 09:26:21.726801
+Temp = 23.1*C
+Hum = 51.3%
+20250326 09:26:26.980643
+Temp = 23.1*C
+Hum = 51.3%
+20250326 09:26:32.239811
+Temp = 23.2*C
+Hum = 51.2%
+20250326 09:26:37.493595
+Temp = 23.2*C
+Hum = 51.2%
+20250326 09:26:42.747325
+Temp = 23.2*C
+Hum = 51.1%
+20250326 09:26:48.001119
+Temp = 23.2*C
+Hum = 51.0%
+20250326 09:26:53.254833
+Temp = 23.2*C
+Hum = 51.0%
+20250326 09:26:58.508649
+Temp = 23.2*C
+Hum = 50.9%
+20250326 09:27:03.762239
+Temp = 23.2*C
+Hum = 50.9%
+20250326 09:27:09.016116
+Temp = 23.2*C
+Hum = 50.9%
+20250326 09:27:14.269952
+Temp = 23.2*C
+Hum = 50.8%
+20250326 09:27:19.523746
+Temp = 23.2*C
+Hum = 50.8%
+20250326 09:27:24.777492
+Temp = 23.2*C
+Hum = 50.8%
+20250326 09:27:30.031346
+Temp = 23.2*C
+Hum = 50.8%
+20250326 09:27:35.285150
+Temp = 23.2*C
+Hum = 50.8%
+20250326 09:27:40.539011
+Temp = 23.2*C
+Hum = 50.8%
+20250326 09:27:45.792908
+Temp = 23.2*C
+Hum = 50.7%
+20250326 09:27:51.046798
+Temp = 23.2*C
+Hum = 50.7%
+20250326 09:27:56.300673
+Temp = 23.2*C
+Hum = 50.7%
+20250326 09:28:01.557753
+Temp = 23.3*C
+Hum = 50.7%
+20250326 09:28:06.811639
+Temp = 23.2*C
+Hum = 50.7%
+20250326 09:28:12.065509
+Temp = 23.3*C
+Hum = 50.7%
+20250326 09:28:17.321594
+Temp = 23.3*C
+Hum = 50.6%
+20250326 09:28:22.575382
+Temp = 23.3*C
+Hum = 50.6%
+20250326 09:28:27.829340
+Temp = 23.3*C
+Hum = 50.6%
+20250326 09:28:33.083190
+Temp = 23.3*C
+Hum = 50.6%
+20250326 09:28:38.337032
+Temp = 23.3*C
+Hum = 50.6%
+20250326 09:28:43.590847
+Temp = 23.3*C
+Hum = 50.6%
+20250326 09:28:48.844736
+Temp = 23.3*C
+Hum = 50.6%
+20250326 09:28:54.098610
+Temp = 23.3*C
+Hum = 50.6%
+20250326 09:28:59.352555
+Temp = 23.3*C
+Hum = 50.6%
+20250326 09:29:04.606467
+Temp = 23.3*C
+Hum = 50.5%
+20250326 09:29:09.860495
+Temp = 23.3*C
+Hum = 50.5%
+20250326 09:29:15.114363
+Temp = 23.3*C
+Hum = 50.5%
+20250326 09:29:20.368121
+Temp = 23.3*C
+Hum = 50.5%
+20250326 09:29:25.622041
+Temp = 23.3*C
+Hum = 50.5%
+20250326 09:29:30.878160
+Temp = 23.3*C
+Hum = 50.5%
+20250326 09:29:36.132063
+Temp = 23.3*C
+Hum = 50.5%
+20250326 09:29:41.385852
+Temp = 23.3*C
+Hum = 50.5%
+20250326 09:29:46.639638
+Temp = 23.3*C
+Hum = 50.5%
+20250326 09:29:51.893518
+Temp = 23.3*C
+Hum = 50.5%
+20250326 09:29:57.147374
+Temp = 23.3*C
+Hum = 50.5%
+20250326 09:30:02.404399
+Temp = 23.3*C
+Hum = 50.4%
+20250326 09:30:07.658210
+Temp = 23.3*C
+Hum = 50.4%
+20250326 09:30:12.912107
+Temp = 23.3*C
+Hum = 50.4%
+20250326 09:30:18.165987
+Temp = 23.3*C
+Hum = 50.4%
+20250326 09:30:23.419823
+Temp = 23.3*C
+Hum = 50.4%
+20250326 09:30:28.673642
+Temp = 23.4*C
+Hum = 50.4%
+20250326 09:30:33.927506
+Temp = 23.4*C
+Hum = 50.4%
+20250326 09:30:39.181302
+Temp = 23.4*C
+Hum = 50.4%
+20250326 09:30:44.434824
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:30:49.688740
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:30:54.942588
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:00.196500
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:05.450429
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:10.704436
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:15.958318
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:21.212107
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:26.465827
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:31.719610
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:36.973466
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:42.227302
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:47.481004
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:52.734811
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:31:57.988644
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:32:03.242415
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:32:08.496105
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:32:13.749870
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:32:19.003737
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:32:24.257562
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:32:29.511270
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:32:34.765071
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:32:40.018923
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:32:45.272832
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:32:50.526680
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:32:55.780542
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:33:01.037689
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:33:06.295012
+Temp = 23.2*C
+Hum = 50.3%
+20250326 09:33:11.548834
+Temp = 23.2*C
+Hum = 50.3%
+20250326 09:33:16.802748
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:33:22.059777
+Temp = 23.2*C
+Hum = 50.3%
+20250326 09:33:27.313589
+Temp = 23.2*C
+Hum = 50.3%
+20250326 09:33:32.567334
+Temp = 23.2*C
+Hum = 50.3%
+20250326 09:33:37.821174
+Temp = 23.2*C
+Hum = 50.3%
+20250326 09:33:43.074889
+Temp = 23.2*C
+Hum = 50.4%
+20250326 09:33:48.328649
+Temp = 23.2*C
+Hum = 50.4%
+20250326 09:33:53.582405
+Temp = 23.2*C
+Hum = 50.4%
+20250326 09:33:58.836308
+Temp = 23.2*C
+Hum = 50.4%
+20250326 09:34:04.090049
+Temp = 23.2*C
+Hum = 50.4%
+20250326 09:34:09.343864
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:34:14.597636
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:34:19.854821
+Temp = 23.2*C
+Hum = 50.3%
+20250326 09:34:25.108593
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:34:30.362473
+Temp = 23.2*C
+Hum = 50.3%
+20250326 09:34:35.616461
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:34:40.870404
+Temp = 23.2*C
+Hum = 50.3%
+20250326 09:34:46.127461
+Temp = 23.2*C
+Hum = 50.3%
+20250326 09:34:51.381255
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:34:56.635112
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:35:01.891567
+Temp = 23.2*C
+Hum = 50.3%
+20250326 09:35:07.145305
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:35:12.399133
+Temp = 23.3*C
+Hum = 50.3%
+20250326 09:35:17.654694
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:35:22.908544
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:35:28.162258
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:35:33.416090
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:35:38.670004
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:35:43.923889
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:35:49.177629
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:35:54.431494
+Temp = 23.3*C
+Hum = 50.2%
+20250326 09:35:59.685402
+Temp = 23.4*C
+Hum = 50.1%
+20250326 09:36:04.939246
+Temp = 23.3*C
+Hum = 50.1%
+20250326 09:36:10.192995
+Temp = 23.4*C
+Hum = 50.1%
+20250326 09:36:15.446795
+Temp = 23.4*C
+Hum = 50.1%
+20250326 09:36:20.700734
+Temp = 23.4*C
+Hum = 50.0%
+20250326 09:36:25.954491
+Temp = 23.4*C
+Hum = 50.0%
+20250326 09:36:31.208274
+Temp = 23.5*C
+Hum = 50.0%
+20250326 09:36:36.462112
+Temp = 23.5*C
+Hum = 50.0%
+20250326 09:36:41.719273
+Temp = 23.5*C
+Hum = 49.9%
+20250326 09:36:46.973037
+Temp = 23.6*C
+Hum = 49.9%
+20250326 09:36:52.226781
+Temp = 23.6*C
+Hum = 49.9%
+20250326 09:36:57.480593
+Temp = 23.6*C
+Hum = 49.8%
+20250326 09:37:02.737650
+Temp = 23.6*C
+Hum = 49.8%
+20250326 09:37:07.991457
+Temp = 23.7*C
+Hum = 49.7%
+20250326 09:37:13.245337
+Temp = 23.7*C
+Hum = 49.7%
+20250326 09:37:18.499176
+Temp = 23.7*C
+Hum = 49.6%
+20250326 09:37:23.752965
+Temp = 23.7*C
+Hum = 49.5%
+20250326 09:37:29.006831
+Temp = 23.7*C
+Hum = 49.5%
+20250326 09:37:34.260554
+Temp = 23.8*C
+Hum = 49.4%
+20250326 09:37:39.514312
+Temp = 23.8*C
+Hum = 49.4%
+20250326 09:37:44.768049
+Temp = 23.8*C
+Hum = 49.4%
+20250326 09:37:50.025113
+Temp = 23.9*C
+Hum = 49.3%
+20250326 09:37:55.278977
+Temp = 23.9*C
+Hum = 49.2%
+20250326 09:38:00.532768
+Temp = 23.9*C
+Hum = 49.2%
+20250326 09:38:05.786600
+Temp = 23.9*C
+Hum = 49.1%
+20250326 09:38:11.040512
+Temp = 24.0*C
+Hum = 49.1%
+20250326 09:38:16.294436
+Temp = 24.0*C
+Hum = 49.0%
+20250326 09:38:21.548343
+Temp = 24.0*C
+Hum = 48.9%
+20250326 09:38:26.802173
+Temp = 24.0*C
+Hum = 48.9%
+20250326 09:38:32.055906
+Temp = 24.0*C
+Hum = 48.9%
+20250326 09:38:37.309754
+Temp = 24.0*C
+Hum = 48.8%
+20250326 09:38:42.563667
+Temp = 24.1*C
+Hum = 48.8%
+20250326 09:38:47.817531
+Temp = 24.1*C
+Hum = 48.8%
+20250326 09:38:53.071296
+Temp = 24.1*C
+Hum = 48.7%
+20250326 09:38:58.325147
+Temp = 24.1*C
+Hum = 48.7%
+20250326 09:39:03.579025
+Temp = 24.1*C
+Hum = 48.7%
+20250326 09:39:08.832876
+Temp = 24.2*C
+Hum = 48.6%
+20250326 09:39:14.086625
+Temp = 24.2*C
+Hum = 48.5%
+20250326 09:39:19.340495
+Temp = 24.2*C
+Hum = 48.5%
+20250326 09:39:24.594249
+Temp = 24.2*C
+Hum = 48.4%
+20250326 09:39:29.848093
+Temp = 24.2*C
+Hum = 48.3%
+20250326 09:39:35.101857
+Temp = 24.3*C
+Hum = 48.3%
+20250326 09:39:40.355688
+Temp = 24.3*C
+Hum = 48.2%
+20250326 09:39:45.612788
+Temp = 24.3*C
+Hum = 48.2%
+20250326 09:39:50.866797
+Temp = 24.3*C
+Hum = 48.1%
+20250326 09:39:56.120697
+Temp = 24.4*C
+Hum = 48.1%
+20250326 09:40:01.374525
+Temp = 24.3*C
+Hum = 48.0%
+20250326 09:40:06.628327
+Temp = 24.4*C
+Hum = 48.0%
+20250326 09:40:11.882176
+Temp = 24.4*C
+Hum = 48.0%
+20250326 09:40:17.136032
+Temp = 24.4*C
+Hum = 48.0%
+20250326 09:40:22.389831
+Temp = 24.4*C
+Hum = 47.9%
+20250326 09:40:27.643714
+Temp = 24.5*C
+Hum = 47.9%
+20250326 09:40:32.897591
+Temp = 24.5*C
+Hum = 47.9%
+20250326 09:40:38.151513
+Temp = 24.6*C
+Hum = 47.7%
+20250326 09:40:43.405354
+Temp = 24.6*C
+Hum = 47.7%
+20250326 09:40:48.659141
+Temp = 24.7*C
+Hum = 47.6%
+20250326 09:40:53.913009
+Temp = 24.7*C
+Hum = 47.5%
+20250326 09:40:59.166871
+Temp = 24.7*C
+Hum = 47.4%
+20250326 09:41:04.420717
+Temp = 24.8*C
+Hum = 47.3%
+20250326 09:41:09.674557
+Temp = 24.8*C
+Hum = 47.2%
+20250326 09:41:14.928462
+Temp = 24.8*C
+Hum = 47.1%
+20250326 09:41:20.182318
+Temp = 24.9*C
+Hum = 47.1%
+20250326 09:41:25.436200
+Temp = 24.9*C
+Hum = 47.0%
+20250326 09:41:30.689987
+Temp = 24.9*C
+Hum = 46.9%
+20250326 09:41:35.943857
+Temp = 24.9*C
+Hum = 46.9%
+20250326 09:41:41.197700
+Temp = 25.0*C
+Hum = 46.8%
+20250326 09:41:46.451221
+Temp = 25.0*C
+Hum = 46.7%
+20250326 09:41:51.705029
+Temp = 25.0*C
+Hum = 46.7%
+20250326 09:41:56.958868
+Temp = 25.0*C
+Hum = 46.6%
+20250326 09:42:02.212681
+Temp = 25.0*C
+Hum = 46.7%
+20250326 09:42:07.466379
+Temp = 25.0*C
+Hum = 46.6%
+20250326 09:42:12.720156
+Temp = 25.0*C
+Hum = 46.6%
+20250326 09:42:17.974010
+Temp = 25.0*C
+Hum = 46.5%
+20250326 09:42:23.227801
+Temp = 25.1*C
+Hum = 46.5%
+20250326 09:42:28.481450
+Temp = 25.1*C
+Hum = 46.5%
+20250326 09:42:33.735232
+Temp = 25.1*C
+Hum = 46.4%
+20250326 09:42:38.989046
+Temp = 25.1*C
+Hum = 46.4%
+20250326 09:42:44.242737
+Temp = 25.2*C
+Hum = 46.3%
+20250326 09:42:49.496433
+Temp = 25.2*C
+Hum = 46.3%
+20250326 09:42:54.750224
+Temp = 25.3*C
+Hum = 46.2%
+20250326 09:43:00.004052
+Temp = 25.3*C
+Hum = 46.1%
+20250326 09:43:05.257793
+Temp = 25.3*C
+Hum = 46.0%
+20250326 09:43:10.511570
+Temp = 25.3*C
+Hum = 46.0%
+20250326 09:43:15.765345
+Temp = 25.3*C
+Hum = 45.9%
+20250326 09:43:21.019166
+Temp = 25.3*C
+Hum = 45.9%
+20250326 09:43:26.272900
+Temp = 25.3*C
+Hum = 45.8%
+20250326 09:43:31.526734
+Temp = 25.3*C
+Hum = 45.8%
+20250326 09:43:36.780516
+Temp = 25.3*C
+Hum = 45.8%
+20250326 09:43:42.034362
+Temp = 25.3*C
+Hum = 45.8%
+20250326 09:43:47.288210
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:43:52.542193
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:43:57.796254
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:44:03.053386
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:44:08.307078
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:44:13.560872
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:44:18.814738
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:44:24.068584
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:44:29.322284
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:44:34.576079
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:44:39.830047
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:44:45.083908
+Temp = 25.4*C
+Hum = 45.7%
+20250326 09:44:50.337745
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:44:55.591668
+Temp = 25.3*C
+Hum = 45.7%
+20250326 09:45:00.845548
+Temp = 25.4*C
+Hum = 45.6%
+20250326 09:45:06.099413
+Temp = 25.4*C
+Hum = 45.6%
+20250326 09:45:11.353212
+Temp = 25.4*C
+Hum = 45.6%
+20250326 09:45:16.607033
+Temp = 25.4*C
+Hum = 45.5%
+20250326 09:45:21.860935
+Temp = 25.4*C
+Hum = 45.6%
+20250326 09:45:27.114742
+Temp = 25.3*C
+Hum = 45.5%
+20250326 09:45:32.368437
+Temp = 25.3*C
+Hum = 45.5%
+20250326 09:45:37.622232
+Temp = 25.3*C
+Hum = 45.6%
+20250326 09:45:42.878325
+Temp = 25.3*C
+Hum = 45.6%
+20250326 09:45:48.132129
+Temp = 25.3*C
+Hum = 45.6%
+20250326 09:45:53.385959
+Temp = 25.3*C
+Hum = 45.6%
+20250326 09:45:58.639881
+Temp = 25.3*C
+Hum = 45.6%
+20250326 09:46:03.893749
+Temp = 25.3*C
+Hum = 45.6%
+20250326 09:46:09.147537
+Temp = 25.3*C
+Hum = 45.5%
+20250326 09:46:14.404512
+Temp = 25.3*C
+Hum = 45.5%
+20250326 09:46:19.658317
+Temp = 25.3*C
+Hum = 45.5%
+20250326 09:46:24.912193
+Temp = 25.3*C
+Hum = 45.5%
+20250326 09:46:30.166064
+Temp = 25.3*C
+Hum = 45.4%
+20250326 09:46:35.419939
+Temp = 25.3*C
+Hum = 45.4%
+20250326 09:46:40.673921
+Temp = 25.3*C
+Hum = 45.4%
+20250326 09:46:45.927833
+Temp = 25.2*C
+Hum = 45.4%
+20250326 09:46:51.181622
+Temp = 25.2*C
+Hum = 45.4%
+20250326 09:46:56.435306
+Temp = 25.2*C
+Hum = 45.5%
+20250326 09:47:01.689088
+Temp = 25.1*C
+Hum = 45.5%
+20250326 09:47:06.942947
+Temp = 25.1*C
+Hum = 45.6%
+20250326 09:47:12.197133
+Temp = 25.1*C
+Hum = 45.6%
+20250326 09:47:17.451067
+Temp = 25.1*C
+Hum = 45.7%
+20250326 09:47:22.704987
+Temp = 25.0*C
+Hum = 45.8%
+20250326 09:47:27.958848
+Temp = 25.0*C
+Hum = 45.8%
+20250326 09:47:33.212651
+Temp = 25.0*C
+Hum = 45.9%
+20250326 09:47:38.466338
+Temp = 25.0*C
+Hum = 45.9%
+20250326 09:47:43.720128
+Temp = 25.0*C
+Hum = 45.9%
+20250326 09:47:48.973983
+Temp = 25.0*C
+Hum = 46.0%
+20250326 09:47:54.227856
+Temp = 25.0*C
+Hum = 45.9%
+20250326 09:47:59.481726
+Temp = 25.0*C
+Hum = 46.0%
+20250326 09:48:04.735663
+Temp = 25.0*C
+Hum = 46.0%
+20250326 09:48:09.992826
+Temp = 25.0*C
+Hum = 46.0%
+20250326 09:48:15.246587
+Temp = 25.0*C
+Hum = 46.0%
+20250326 09:48:20.500330
+Temp = 25.0*C
+Hum = 45.9%
+20250326 09:48:25.754129
+Temp = 24.9*C
+Hum = 45.9%
+20250326 09:48:31.007991
+Temp = 24.9*C
+Hum = 45.9%
+20250326 09:48:36.261836
+Temp = 24.9*C
+Hum = 46.0%
+20250326 09:48:41.515671
+Temp = 24.9*C
+Hum = 46.0%
+20250326 09:48:46.769490
+Temp = 24.8*C
+Hum = 46.0%
+20250326 09:48:52.023350
+Temp = 24.8*C
+Hum = 46.1%
+20250326 09:48:57.277084
+Temp = 24.8*C
+Hum = 46.1%
+20250326 09:49:02.530755
+Temp = 24.7*C
+Hum = 46.1%
+20250326 09:49:07.784521
+Temp = 24.7*C
+Hum = 46.2%
+20250326 09:49:13.038302
+Temp = 24.7*C
+Hum = 46.2%
+20250326 09:49:18.292145
+Temp = 24.6*C
+Hum = 46.3%
+20250326 09:49:23.546041
+Temp = 24.6*C
+Hum = 46.3%
+20250326 09:49:28.799958
+Temp = 24.6*C
+Hum = 46.4%
+20250326 09:49:34.057147
+Temp = 24.6*C
+Hum = 46.5%
+20250326 09:49:39.310980
+Temp = 24.6*C
+Hum = 46.5%
+20250326 09:49:44.564803
+Temp = 24.6*C
+Hum = 46.5%
+20250326 09:49:49.818620
+Temp = 24.6*C
+Hum = 46.5%
+20250326 09:49:55.072462
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:50:00.326323
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:50:05.583272
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:50:10.837190
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:50:16.091076
+Temp = 24.6*C
+Hum = 46.5%
+20250326 09:50:21.344854
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:50:26.598605
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:50:31.852525
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:50:37.106375
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:50:42.360258
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:50:47.614053
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:50:52.867938
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:50:58.124985
+Temp = 24.5*C
+Hum = 46.6%
+20250326 09:51:03.378788
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:51:08.632565
+Temp = 24.5*C
+Hum = 46.5%
+20250326 09:51:13.886440
+Temp = 24.5*C
+Hum = 46.6%
+20250326 09:51:19.140358
+Temp = 24.5*C
+Hum = 46.6%
+20250326 09:51:24.397465
+Temp = 24.5*C
+Hum = 46.7%
+20250326 09:51:29.651221
+Temp = 24.5*C
+Hum = 46.6%
+20250326 09:51:34.905083
+Temp = 24.5*C
+Hum = 46.6%
+20250326 09:51:40.158952
+Temp = 24.5*C
+Hum = 46.6%
+20250326 09:51:45.412708
+Temp = 24.5*C
+Hum = 46.6%
+20250326 09:51:50.666417
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:51:55.920336
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:52:01.174161
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:52:06.427991
+Temp = 24.6*C
+Hum = 46.6%
+20250326 09:52:11.681778
+Temp = 24.6*C
+Hum = 46.5%
+20250326 09:52:16.935657
+Temp = 24.6*C
+Hum = 46.5%
+20250326 09:52:22.189503
+Temp = 24.6*C
+Hum = 46.5%
+20250326 09:52:27.443294
+Temp = 24.6*C
+Hum = 46.5%
+20250326 09:52:32.697061
+Temp = 24.6*C
+Hum = 46.5%
+20250326 09:52:37.950913
+Temp = 24.5*C
+Hum = 46.5%
+20250326 09:52:43.204728
+Temp = 24.5*C
+Hum = 46.5%
+20250326 09:52:48.458534
+Temp = 24.5*C
+Hum = 46.6%
+20250326 09:52:53.712312
+Temp = 24.5*C
+Hum = 46.5%
+20250326 09:52:58.966174
+Temp = 24.5*C
+Hum = 46.6%
+20250326 09:53:04.220015
+Temp = 24.5*C
+Hum = 46.6%
+20250326 09:53:09.473833
+Temp = 24.5*C
+Hum = 46.7%
+20250326 09:53:14.727605
+Temp = 24.4*C
+Hum = 46.7%
+20250326 09:53:19.981911
+Temp = 24.4*C
+Hum = 46.7%
+20250326 09:53:25.235761
+Temp = 24.4*C
+Hum = 46.7%
+20250326 09:53:30.489589
+Temp = 24.4*C
+Hum = 46.8%
+20250326 09:53:35.743357
+Temp = 24.4*C
+Hum = 46.7%
+20250326 09:53:40.997206
+Temp = 24.4*C
+Hum = 46.8%
+20250326 09:53:46.251035
+Temp = 24.4*C
+Hum = 46.7%
+20250326 09:53:51.504796
+Temp = 24.4*C
+Hum = 46.8%
+20250326 09:53:56.761828
+Temp = 24.4*C
+Hum = 46.8%
+20250326 09:54:02.015660
+Temp = 24.3*C
+Hum = 46.8%
+20250326 09:54:07.269375
+Temp = 24.3*C
+Hum = 46.9%
+20250326 09:54:12.523186
+Temp = 24.3*C
+Hum = 46.9%
+20250326 09:54:17.776957
+Temp = 24.3*C
+Hum = 46.9%
+20250326 09:54:23.030782
+Temp = 24.3*C
+Hum = 46.9%
+20250326 09:54:28.284520
+Temp = 24.2*C
+Hum = 47.0%
+20250326 09:54:33.538278
+Temp = 24.2*C
+Hum = 47.0%
+20250326 09:54:38.792028
+Temp = 24.2*C
+Hum = 47.0%
+20250326 09:54:44.045864
+Temp = 24.2*C
+Hum = 47.1%
+20250326 09:54:49.299404
+Temp = 24.1*C
+Hum = 47.1%
+20250326 09:54:54.553323
+Temp = 24.1*C
+Hum = 47.2%
+20250326 09:54:59.807215
+Temp = 24.1*C
+Hum = 47.2%
+20250326 09:55:05.061087
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:55:10.314821
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:55:15.568682
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:55:20.822570
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:55:26.076503
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:55:31.330365
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:55:36.584327
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:55:41.838208
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:55:47.093440
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:55:52.347158
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:55:57.601033
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:56:02.854887
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:56:08.108599
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:56:13.362338
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:56:18.619495
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:56:23.873333
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:56:29.127069
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:56:34.380949
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:56:39.638669
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:56:44.974259
+Checksum did not validate. Try again.
+20250326 09:56:50.308298
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:56:55.562203
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:57:00.816108
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:57:06.069912
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:57:11.323669
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:57:16.579427
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:57:21.833294
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:57:27.087015
+Temp = 24.1*C
+Hum = 47.4%
+20250326 09:57:32.340827
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:57:37.594718
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:57:42.848544
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:57:48.102250
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:57:53.355955
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:57:58.609830
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:58:03.863692
+Temp = 24.1*C
+Hum = 47.3%
+20250326 09:58:09.117395
+Temp = 24.0*C
+Hum = 47.3%
+20250326 09:58:14.371216
+Temp = 24.0*C
+Hum = 47.3%
+20250326 09:58:19.625136
+Temp = 24.0*C
+Hum = 47.4%
+20250326 09:58:24.881190
+Temp = 24.0*C
+Hum = 47.4%
+20250326 09:58:30.134881
+Temp = 24.0*C
+Hum = 47.5%
+20250326 09:58:35.388652
+Temp = 24.0*C
+Hum = 47.5%
+20250326 09:58:40.642393
+Temp = 24.0*C
+Hum = 47.5%
+20250326 09:58:45.899514
+Temp = 24.0*C
+Hum = 47.6%
+20250326 09:58:51.153163
+Temp = 23.9*C
+Hum = 47.6%
+20250326 09:58:56.406912
+Temp = 23.9*C
+Hum = 47.6%
+20250326 09:59:01.663979
+Temp = 23.9*C
+Hum = 47.6%
+20250326 09:59:06.917791
+Temp = 23.9*C
+Hum = 47.6%
+20250326 09:59:12.174826
+Temp = 23.9*C
+Hum = 47.6%
+20250326 09:59:17.428599
+Temp = 23.9*C
+Hum = 47.7%
+20250326 09:59:22.682377
+Temp = 23.9*C
+Hum = 47.8%
+20250326 09:59:27.936210
+Temp = 24.0*C
+Hum = 47.7%
+20250326 09:59:33.189963
+Temp = 24.0*C
+Hum = 47.7%
+20250326 09:59:38.443765
+Temp = 24.0*C
+Hum = 47.6%
+20250326 09:59:43.697542
+Temp = 24.1*C
+Hum = 47.6%
+20250326 09:59:48.951406
+Temp = 24.1*C
+Hum = 47.6%
+20250326 09:59:54.205256
+Temp = 24.1*C
+Hum = 47.5%
+20250326 09:59:59.459076
+Temp = 24.1*C
+Hum = 47.4%
+20250326 10:00:04.712909
+Temp = 24.1*C
+Hum = 47.4%
+20250326 10:00:09.966882
+Temp = 24.2*C
+Hum = 47.4%
+20250326 10:00:15.220828
+Temp = 24.2*C
+Hum = 47.3%
+20250326 10:00:20.474735
+Temp = 24.2*C
+Hum = 47.3%
+20250326 10:00:25.728627
+Temp = 24.2*C
+Hum = 47.3%
+20250326 10:00:30.982398
+Temp = 24.2*C
+Hum = 47.2%
+20250326 10:00:36.236235
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:00:41.489746
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:00:46.743686
+Temp = 24.3*C
+Hum = 47.1%
+20250326 10:00:51.997574
+Temp = 24.3*C
+Hum = 47.1%
+20250326 10:00:57.251338
+Temp = 24.3*C
+Hum = 47.0%
+20250326 10:01:02.508351
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:01:07.762096
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:01:13.016054
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:01:18.273168
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:01:23.526838
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:01:28.780640
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:01:34.034491
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:01:39.288334
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:01:44.542073
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:01:49.795964
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:01:55.050251
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:02:00.304634
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:02:05.558437
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:02:10.812596
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:02:16.066738
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:02:21.320865
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:02:26.575318
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:02:31.832516
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:02:37.086573
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:02:42.340575
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:02:47.594422
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:02:52.848494
+Temp = 23.9*C
+Hum = 47.4%
+20250326 10:02:58.102516
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:03:03.356501
+Temp = 23.9*C
+Hum = 47.4%
+20250326 10:03:08.610324
+Temp = 23.9*C
+Hum = 47.4%
+20250326 10:03:13.864274
+Temp = 23.9*C
+Hum = 47.4%
+20250326 10:03:19.118156
+Temp = 23.9*C
+Hum = 47.5%
+20250326 10:03:24.371937
+Temp = 23.9*C
+Hum = 47.5%
+20250326 10:03:29.625771
+Temp = 23.9*C
+Hum = 47.6%
+20250326 10:03:34.879725
+Temp = 23.9*C
+Hum = 47.6%
+20250326 10:03:40.133642
+Temp = 23.9*C
+Hum = 47.5%
+20250326 10:03:45.387455
+Temp = 23.9*C
+Hum = 47.6%
+20250326 10:03:50.641320
+Temp = 23.9*C
+Hum = 47.6%
+20250326 10:03:55.895313
+Temp = 23.9*C
+Hum = 47.6%
+20250326 10:04:01.149290
+Temp = 23.9*C
+Hum = 47.6%
+20250326 10:04:06.403161
+Temp = 23.9*C
+Hum = 47.6%
+20250326 10:04:11.657028
+Temp = 23.8*C
+Hum = 47.6%
+20250326 10:04:16.911077
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:04:22.165044
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:04:27.418887
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:04:32.672732
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:04:37.930025
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:04:43.183989
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:04:48.437846
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:04:53.691696
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:04:58.945671
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:05:04.199667
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:05:09.453445
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:05:14.707413
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:05:19.961388
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:05:25.215305
+Temp = 23.8*C
+Hum = 47.8%
+20250326 10:05:30.469068
+Temp = 23.8*C
+Hum = 47.8%
+20250326 10:05:35.723028
+Temp = 23.7*C
+Hum = 47.8%
+20250326 10:05:40.980274
+Temp = 23.7*C
+Hum = 47.9%
+20250326 10:05:46.234233
+Temp = 23.7*C
+Hum = 47.9%
+20250326 10:05:51.487952
+Temp = 23.7*C
+Hum = 47.9%
+20250326 10:05:56.741915
+Temp = 23.7*C
+Hum = 47.9%
+20250326 10:06:01.995857
+Temp = 23.7*C
+Hum = 47.9%
+20250326 10:06:07.249752
+Temp = 23.7*C
+Hum = 47.9%
+20250326 10:06:12.503536
+Temp = 23.7*C
+Hum = 47.9%
+20250326 10:06:17.757469
+Temp = 23.7*C
+Hum = 48.0%
+20250326 10:06:23.011332
+Temp = 23.8*C
+Hum = 47.9%
+20250326 10:06:28.265243
+Temp = 23.8*C
+Hum = 48.0%
+20250326 10:06:33.518999
+Temp = 23.8*C
+Hum = 47.9%
+20250326 10:06:38.776232
+Temp = 23.8*C
+Hum = 47.9%
+20250326 10:06:44.030060
+Temp = 23.8*C
+Hum = 47.9%
+20250326 10:06:49.283961
+Temp = 23.8*C
+Hum = 47.8%
+20250326 10:06:54.541182
+Temp = 23.8*C
+Hum = 47.8%
+20250326 10:06:59.795120
+Temp = 23.9*C
+Hum = 47.8%
+20250326 10:07:05.049028
+Temp = 23.9*C
+Hum = 47.8%
+20250326 10:07:10.302893
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:07:15.556735
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:07:20.810662
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:07:26.064442
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:07:31.318312
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:07:36.572203
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:07:41.826161
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:07:47.080134
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:07:52.334014
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:07:57.587861
+Temp = 23.8*C
+Hum = 47.7%
+20250326 10:08:02.841752
+Temp = 23.8*C
+Hum = 47.8%
+20250326 10:08:08.095554
+Temp = 23.8*C
+Hum = 47.8%
+20250326 10:08:13.349432
+Temp = 23.8*C
+Hum = 47.8%
+20250326 10:08:18.603358
+Temp = 23.8*C
+Hum = 47.8%
+20250326 10:08:23.857264
+Temp = 23.9*C
+Hum = 47.8%
+20250326 10:08:29.111071
+Temp = 23.9*C
+Hum = 47.8%
+20250326 10:08:34.364942
+Temp = 23.9*C
+Hum = 47.8%
+20250326 10:08:39.619578
+Temp = 23.9*C
+Hum = 47.7%
+20250326 10:08:44.955405
+Temp = 23.9*C
+Hum = 47.6%
+20250326 10:08:50.212426
+Temp = 24.0*C
+Hum = 47.7%
+20250326 10:08:55.466351
+Temp = 24.0*C
+Hum = 47.6%
+20250326 10:09:00.720168
+Temp = 24.0*C
+Hum = 47.6%
+20250326 10:09:05.974040
+Temp = 24.0*C
+Hum = 47.5%
+20250326 10:09:11.227798
+Temp = 24.0*C
+Hum = 47.5%
+20250326 10:09:16.481641
+Temp = 24.0*C
+Hum = 47.5%
+20250326 10:09:21.735509
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:09:26.989317
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:09:32.243244
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:09:37.497181
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:09:42.751004
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:09:48.004882
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:09:53.258793
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:09:58.515963
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:10:03.769794
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:10:09.023582
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:10:14.277508
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:10:19.531408
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:10:24.785318
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:10:30.039094
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:10:35.296343
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:10:40.551560
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:10:45.805485
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:10:51.059266
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:10:56.313187
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:11:01.569380
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:11:06.823294
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:11:12.077109
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:11:17.331035
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:11:22.584928
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:11:27.838907
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:11:33.092851
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:11:38.350051
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:11:43.603953
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:11:48.857870
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:11:54.111776
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:11:59.369741
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:12:04.623677
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:12:09.877587
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:12:15.131417
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:12:20.385197
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:12:25.639152
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:12:30.893068
+Temp = 24.1*C
+Hum = 47.3%
+20250326 10:12:36.146949
+Temp = 24.1*C
+Hum = 47.3%
+20250326 10:12:41.400745
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:12:46.654686
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:12:51.908598
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:12:57.162455
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:13:02.416307
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:13:07.670234
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:13:12.924170
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:13:18.177917
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:13:23.435002
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:13:28.688942
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:13:33.942819
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:13:39.196534
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:13:44.450311
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:13:49.704248
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:13:54.958174
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:14:00.211965
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:14:05.465897
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:14:10.719823
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:14:15.973699
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:14:21.227492
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:14:26.481287
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:14:31.735214
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:14:36.992387
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:14:42.246192
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:14:47.500066
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:14:52.754058
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:14:58.007967
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:15:03.261823
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:15:08.515597
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:15:13.769688
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:15:19.023563
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:15:24.277321
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:15:29.531083
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:15:34.785047
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:15:40.038917
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:15:45.292644
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:15:50.549816
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:15:55.803736
+Temp = 24.3*C
+Hum = 46.9%
+20250326 10:16:01.057636
+Temp = 24.3*C
+Hum = 46.9%
+20250326 10:16:06.311413
+Temp = 24.3*C
+Hum = 46.9%
+20250326 10:16:11.565210
+Temp = 24.3*C
+Hum = 46.9%
+20250326 10:16:16.819097
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:16:22.072819
+Temp = 24.2*C
+Hum = 46.8%
+20250326 10:16:27.326705
+Temp = 24.3*C
+Hum = 46.8%
+20250326 10:16:32.583886
+Temp = 24.2*C
+Hum = 46.8%
+20250326 10:16:37.837769
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:16:43.091356
+Temp = 24.2*C
+Hum = 46.8%
+20250326 10:16:48.345097
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:16:53.599022
+Temp = 24.2*C
+Hum = 46.8%
+20250326 10:16:58.852930
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:17:04.109922
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:17:09.363741
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:17:14.617669
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:17:19.871545
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:17:25.125317
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:17:30.382381
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:17:35.636350
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:17:40.892893
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:17:46.149919
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:17:51.403652
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:17:56.657398
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:18:01.911305
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:18:07.165085
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:18:12.418848
+Temp = 24.1*C
+Hum = 46.9%
+20250326 10:18:17.672777
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:18:22.926660
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:18:28.180396
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:18:33.434203
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:18:38.688031
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:18:43.941914
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:18:49.195657
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:18:54.449537
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:18:59.703467
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:19:04.957351
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:19:10.214395
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:19:15.468233
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:19:20.722703
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:19:25.980526
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:19:31.234468
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:19:36.488379
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:19:41.742189
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:19:46.995988
+Temp = 24.0*C
+Hum = 47.1%
+20250326 10:19:52.249885
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:19:57.503660
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:20:02.757471
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:20:08.011313
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:20:13.265101
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:20:18.518932
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:20:23.772693
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:20:29.026449
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:20:34.280360
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:20:39.534127
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:20:44.788009
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:20:50.041835
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:20:55.295763
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:21:00.552833
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:21:05.806771
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:21:11.060668
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:21:16.314481
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:21:21.568194
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:21:26.822052
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:21:32.075820
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:21:37.332971
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:21:42.590197
+Temp = 24.1*C
+Hum = 47.3%
+20250326 10:21:47.844097
+Temp = 24.1*C
+Hum = 47.4%
+20250326 10:21:53.097961
+Temp = 24.1*C
+Hum = 47.3%
+20250326 10:21:58.351842
+Temp = 24.1*C
+Hum = 47.3%
+20250326 10:22:03.605713
+Temp = 24.1*C
+Hum = 47.3%
+20250326 10:22:08.859620
+Temp = 24.1*C
+Hum = 47.3%
+20250326 10:22:14.113526
+Temp = 24.2*C
+Hum = 47.2%
+20250326 10:22:19.367395
+Temp = 24.2*C
+Hum = 47.2%
+20250326 10:22:24.621204
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:22:29.875110
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:22:35.129011
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:22:40.382839
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:22:45.637249
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:22:50.892338
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:22:56.146209
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:23:01.399969
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:23:06.657094
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:23:11.914302
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:23:17.168221
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:23:22.421979
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:23:27.675963
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:23:32.929872
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:23:38.183749
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:23:43.437520
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:23:48.691317
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:23:53.945252
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:23:59.199139
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:24:04.452877
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:24:09.706717
+Temp = 24.1*C
+Hum = 46.9%
+20250326 10:24:14.960636
+Temp = 24.1*C
+Hum = 46.9%
+20250326 10:24:20.214524
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:24:25.468342
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:24:30.722153
+Temp = 24.1*C
+Hum = 46.9%
+20250326 10:24:35.976057
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:24:41.229961
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:24:46.483694
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:24:51.737525
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:24:56.991416
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:25:02.245239
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:25:07.499107
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:25:12.752902
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:25:18.006835
+Temp = 24.0*C
+Hum = 47.1%
+20250326 10:25:23.260760
+Temp = 24.0*C
+Hum = 47.1%
+20250326 10:25:28.514540
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:25:33.768574
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:25:39.022449
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:25:44.276151
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:25:49.530052
+Temp = 24.0*C
+Hum = 47.3%
+20250326 10:25:54.783990
+Temp = 24.1*C
+Hum = 47.3%
+20250326 10:26:00.037888
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:26:05.291689
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:26:10.545603
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:26:15.799579
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:26:21.053485
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:26:26.307277
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:26:31.564477
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:26:36.818346
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:26:42.072121
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:26:47.325897
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:26:52.579786
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:26:57.833619
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:27:03.087413
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:27:08.341330
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:27:13.595256
+Temp = 24.3*C
+Hum = 46.9%
+20250326 10:27:18.849143
+Temp = 24.3*C
+Hum = 46.9%
+20250326 10:27:24.106216
+Temp = 24.3*C
+Hum = 46.8%
+20250326 10:27:29.359987
+Temp = 24.3*C
+Hum = 46.8%
+20250326 10:27:34.613912
+Temp = 24.2*C
+Hum = 46.8%
+20250326 10:27:39.867785
+Temp = 24.2*C
+Hum = 46.8%
+20250326 10:27:45.124844
+Temp = 24.2*C
+Hum = 46.8%
+20250326 10:27:50.381921
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:27:55.635878
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:00.889744
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:06.143530
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:11.397349
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:16.651281
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:21.905124
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:27.158880
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:32.412665
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:37.666602
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:42.920545
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:48.174352
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:53.428269
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:28:58.682242
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:29:03.936125
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:29:09.189889
+Temp = 24.2*C
+Hum = 46.8%
+20250326 10:29:14.443702
+Temp = 24.2*C
+Hum = 46.8%
+20250326 10:29:19.698003
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:29:24.951956
+Temp = 24.2*C
+Hum = 46.9%
+20250326 10:29:30.207165
+Temp = 24.1*C
+Hum = 46.9%
+20250326 10:29:35.461085
+Temp = 24.1*C
+Hum = 46.9%
+20250326 10:29:40.715080
+Temp = 24.1*C
+Hum = 46.9%
+20250326 10:29:45.968967
+Temp = 24.1*C
+Hum = 46.9%
+20250326 10:29:51.222695
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:29:56.476585
+Temp = 24.0*C
+Hum = 47.1%
+20250326 10:30:01.730489
+Temp = 24.0*C
+Hum = 47.1%
+20250326 10:30:06.984418
+Temp = 24.0*C
+Hum = 47.1%
+20250326 10:30:12.238208
+Temp = 24.0*C
+Hum = 47.2%
+20250326 10:30:17.492108
+Temp = 23.9*C
+Hum = 47.2%
+20250326 10:30:22.746028
+Temp = 23.9*C
+Hum = 47.3%
+20250326 10:30:28.001794
+Temp = 23.9*C
+Hum = 47.3%
+20250326 10:30:33.255524
+Temp = 23.9*C
+Hum = 47.3%
+20250326 10:30:38.509445
+Temp = 23.9*C
+Hum = 47.4%
+20250326 10:30:43.763335
+Temp = 23.9*C
+Hum = 47.4%
+20250326 10:30:49.017151
+Temp = 23.9*C
+Hum = 47.4%
+20250326 10:30:54.271061
+Temp = 23.9*C
+Hum = 47.4%
+20250326 10:30:59.524964
+Temp = 23.9*C
+Hum = 47.4%
+20250326 10:31:04.778901
+Temp = 23.9*C
+Hum = 47.5%
+20250326 10:31:10.036033
+Temp = 23.9*C
+Hum = 47.5%
+20250326 10:31:15.289874
+Temp = 23.9*C
+Hum = 47.4%
+20250326 10:31:20.543849
+Temp = 23.9*C
+Hum = 47.5%
+20250326 10:31:25.797750
+Temp = 23.9*C
+Hum = 47.5%
+20250326 10:31:31.051656
+Temp = 23.9*C
+Hum = 47.4%
+20250326 10:31:36.305580
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:31:41.559521
+Temp = 24.0*C
+Hum = 47.4%
+20250326 10:31:46.813478
+Temp = 24.0*C
+Hum = 47.5%
+20250326 10:31:52.067239
+Temp = 24.0*C
+Hum = 47.5%
+20250326 10:31:57.321056
+Temp = 24.1*C
+Hum = 47.4%
+20250326 10:32:02.574843
+Temp = 24.1*C
+Hum = 47.4%
+20250326 10:32:07.828692
+Temp = 24.1*C
+Hum = 47.3%
+20250326 10:32:13.082445
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:32:18.336341
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:32:23.590143
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:32:28.844070
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:32:34.097837
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:32:39.351627
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:32:44.605466
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:32:49.859370
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:32:55.113283
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:33:00.367148
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:33:05.620925
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:33:10.874831
+Temp = 24.1*C
+Hum = 47.0%
+20250326 10:33:16.128711
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:33:21.382552
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:33:26.636516
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:33:31.890356
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:33:37.144223
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:33:42.397988
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:33:47.651795
+Temp = 24.1*C
+Hum = 47.2%
+20250326 10:33:52.905686
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:33:58.159553
+Temp = 24.1*C
+Hum = 47.1%
+20250326 10:34:03.413247
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:34:08.667079
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:34:13.920980
+Temp = 24.2*C
+Hum = 47.0%
+20250326 10:34:19.177089
+Temp = 24.2*C
+Hum = 47.1%
+20250326 10:34:24.430900
+Temp = 24.3*C
+Hum = 47.0%
+20250326 10:34:29.684717
+Temp = 24.3*C
+Hum = 46.9%
+20250326 10:34:34.938613
+Temp = 24.3*C
+Hum = 46.9%
+20250326 10:34:40.192522
+Temp = 24.3*C
+Hum = 46.8%
+20250326 10:34:45.446293
+Temp = 24.4*C
+Hum = 46.8%
+20250326 10:34:50.700202
+Temp = 24.4*C
+Hum = 46.8%
+20250326 10:34:55.954088
+Temp = 24.4*C
+Hum = 46.7%
+20250326 10:35:01.207945
+Temp = 24.4*C
+Hum = 46.6%
+20250326 10:35:06.461710
+Temp = 24.5*C
+Hum = 46.6%
+20250326 10:35:11.715499
+Temp = 24.5*C
+Hum = 46.5%
+20250326 10:35:16.969373
+Temp = 24.5*C
+Hum = 46.5%
+20250326 10:35:22.223132
+Temp = 24.5*C
+Hum = 46.4%
+20250326 10:35:27.476898
+Temp = 24.5*C
+Hum = 46.4%
+20250326 10:35:32.730677
+Temp = 24.5*C
+Hum = 46.3%
+20250326 10:35:37.984582
+Temp = 24.5*C
+Hum = 46.3%
+20250326 10:35:43.238481
+Temp = 24.5*C
+Hum = 46.3%
+20250326 10:35:48.492402
+Temp = 24.5*C
+Hum = 46.2%
+20250326 10:35:53.746199
+Temp = 24.5*C
+Hum = 46.3%
+20250326 10:35:59.002295
+Temp = 24.5*C
+Hum = 46.3%
+20250326 10:36:04.256034
+Temp = 24.5*C
+Hum = 46.2%
+20250326 10:36:09.509782
+Temp = 24.5*C
+Hum = 46.2%
+20250326 10:36:14.763651
+Temp = 24.5*C
+Hum = 46.2%
+20250326 10:36:20.017483
+Temp = 24.5*C
+Hum = 46.3%
+20250326 10:36:25.271226
+Temp = 24.4*C
+Hum = 46.3%
+20250326 10:36:30.524963
+Temp = 24.4*C
+Hum = 46.2%
+20250326 10:36:35.778768
+Temp = 24.4*C
+Hum = 46.3%
+20250326 10:36:41.032607
+Temp = 24.4*C
+Hum = 46.4%
+20250326 10:36:46.286345
+Temp = 24.4*C
+Hum = 46.4%
+20250326 10:36:51.540050
+Temp = 24.4*C
+Hum = 46.4%
+20250326 10:36:56.793925
+Temp = 24.4*C
+Hum = 46.5%
+20250326 10:37:02.047669
+Temp = 24.4*C
+Hum = 46.5%
+20250326 10:37:07.301408
+Temp = 24.4*C
+Hum = 46.5%
+20250326 10:37:12.558447
+Temp = 24.5*C
+Hum = 46.5%
+20250326 10:37:17.812375
+Temp = 24.5*C
+Hum = 46.5%
+20250326 10:37:23.066251
+Temp = 24.5*C
+Hum = 46.4%
+20250326 10:37:28.319936
+Temp = 24.5*C
+Hum = 46.4%
+20250326 10:37:33.573623
+Temp = 24.5*C
+Hum = 46.3%
+20250326 10:37:38.827472
+Temp = 24.5*C
+Hum = 46.2%
+20250326 10:37:44.081356
+Temp = 24.5*C
+Hum = 46.2%
+20250326 10:37:49.335095
+Temp = 24.5*C
+Hum = 46.2%
+20250326 10:37:54.588973
+Temp = 24.5*C
+Hum = 46.3%
+20250326 10:37:59.842797
+Temp = 24.5*C
+Hum = 46.2%
+20250326 10:38:05.096493
+Temp = 24.5*C
+Hum = 46.2%
+20250326 10:38:10.350207
+Temp = 24.5*C
+Hum = 46.2%
+20250326 10:38:15.604113
+Temp = 24.4*C
+Hum = 46.3%
+20250326 10:38:20.857917
+Temp = 24.4*C
+Hum = 46.3%
+20250326 10:38:26.111648
+Temp = 24.4*C
+Hum = 46.3%
+20250326 10:38:31.365363
+Temp = 24.4*C
+Hum = 46.3%
+20250326 10:38:36.619129
+Temp = 24.4*C
+Hum = 46.4%
+20250326 10:38:41.872932
+Temp = 24.4*C
+Hum = 46.4%
+20250326 10:38:47.126652
+Temp = 24.4*C
+Hum = 46.4%
+20250326 10:38:52.380338
+Temp = 24.5*C
+Hum = 46.4%
+20250326 10:38:57.634838
+Temp = 24.5*C
+Hum = 46.4%
+20250326 10:39:02.891967
+Temp = 24.5*C
+Hum = 46.4%
+20250326 10:39:08.145812
+Temp = 24.5*C
+Hum = 46.4%
+20250326 10:39:13.399546
+Temp = 24.6*C
+Hum = 46.3%
+20250326 10:39:18.653364
+Temp = 24.6*C
+Hum = 46.3%
+20250326 10:39:23.907247
+Temp = 24.6*C
+Hum = 46.2%
+20250326 10:39:29.161119
+Temp = 24.6*C
+Hum = 46.2%
+20250326 10:39:34.414947
+Temp = 24.6*C
+Hum = 46.1%
+20250326 10:39:39.668933
+Temp = 24.7*C
+Hum = 46.1%
+20250326 10:39:44.922750
+Temp = 24.7*C
+Hum = 46.1%
+20250326 10:39:50.176513
+Temp = 24.7*C
+Hum = 46.1%
+20250326 10:39:55.430218
+Temp = 24.7*C
+Hum = 46.0%
+20250326 10:40:00.684114
+Temp = 24.7*C
+Hum = 45.9%
+20250326 10:40:05.937895
+Temp = 24.8*C
+Hum = 46.0%
+20250326 10:40:11.191624
+Temp = 24.8*C
+Hum = 45.9%
+20250326 10:40:16.445302
+Temp = 24.8*C
+Hum = 45.9%
+20250326 10:40:21.699205
+Temp = 24.8*C
+Hum = 45.8%
+20250326 10:40:26.952992
+Temp = 24.8*C
+Hum = 45.8%
+20250326 10:40:32.206757
+Temp = 24.8*C
+Hum = 45.7%
+20250326 10:40:37.460612
+Temp = 24.8*C
+Hum = 45.8%
+20250326 10:40:42.714470
+Temp = 24.9*C
+Hum = 45.7%
+20250326 10:40:47.968387
+Temp = 24.9*C
+Hum = 45.7%
+20250326 10:40:53.222134
+Temp = 24.9*C
+Hum = 45.6%
+20250326 10:40:58.475973
+Temp = 24.9*C
+Hum = 45.6%
+20250326 10:41:03.729910
+Temp = 24.9*C
+Hum = 45.6%
+20250326 10:41:08.983790
+Temp = 24.9*C
+Hum = 45.6%
+20250326 10:41:14.237770
+Temp = 24.9*C
+Hum = 45.6%
+20250326 10:41:19.491731
+Temp = 24.9*C
+Hum = 45.6%
+20250326 10:41:24.745567
+Temp = 24.9*C
+Hum = 45.6%
+20250326 10:41:29.999286
+Temp = 24.9*C
+Hum = 45.5%
+20250326 10:41:35.253139
+Temp = 24.9*C
+Hum = 45.5%
+20250326 10:41:40.506981
+Temp = 24.9*C
+Hum = 45.5%
+20250326 10:41:45.760797
+Temp = 24.9*C
+Hum = 45.5%
+20250326 10:41:51.014531
+Temp = 24.9*C
+Hum = 45.5%
+20250326 10:41:56.271591
+Temp = 25.0*C
+Hum = 45.5%
+20250326 10:42:01.525407
+Temp = 25.0*C
+Hum = 45.4%
+20250326 10:42:06.779129
+Temp = 25.0*C
+Hum = 45.4%
+20250326 10:42:12.032808
+Temp = 25.0*C
+Hum = 45.3%
+20250326 10:42:17.286543
+Temp = 25.0*C
+Hum = 45.3%
+20250326 10:42:22.543711
+Temp = 25.0*C
+Hum = 45.3%
+20250326 10:42:27.797601
+Temp = 25.1*C
+Hum = 45.3%
+20250326 10:42:33.051441
+Temp = 25.1*C
+Hum = 45.3%
+20250326 10:42:38.305275
+Temp = 25.0*C
+Hum = 45.2%
+20250326 10:42:43.559086
+Temp = 25.1*C
+Hum = 45.2%
+20250326 10:42:48.812866
+Temp = 25.1*C
+Hum = 45.2%
+20250326 10:42:54.066545
+Temp = 25.1*C
+Hum = 45.2%
+20250326 10:42:59.320440
+Temp = 25.1*C
+Hum = 45.2%
+20250326 10:43:04.574352
+Temp = 25.1*C
+Hum = 45.1%
+20250326 10:43:09.828264
+Temp = 25.1*C
+Hum = 45.1%
+20250326 10:43:15.082004
+Temp = 25.1*C
+Hum = 45.2%
+20250326 10:43:20.335996
+Temp = 25.1*C
+Hum = 45.1%
+20250326 10:43:25.589960
+Temp = 25.1*C
+Hum = 45.1%
+20250326 10:43:30.843773
+Temp = 25.1*C
+Hum = 45.1%
+20250326 10:43:36.097489
+Temp = 25.2*C
+Hum = 45.1%
+20250326 10:43:41.351333
+Temp = 25.2*C
+Hum = 45.0%
+20250326 10:43:46.605203
+Temp = 25.2*C
+Hum = 45.0%
+20250326 10:43:51.859001
+Temp = 25.2*C
+Hum = 45.0%
+20250326 10:43:57.112752
+Temp = 25.2*C
+Hum = 45.0%
+20250326 10:44:02.366569
+Temp = 25.1*C
+Hum = 45.0%
+20250326 10:44:07.620363
+Temp = 25.2*C
+Hum = 45.0%
+20250326 10:44:12.876093
+Temp = 25.2*C
+Hum = 45.0%
+20250326 10:44:18.129805
+Temp = 25.2*C
+Hum = 45.0%
+20250326 10:44:23.383649
+Temp = 25.2*C
+Hum = 45.0%
+20250326 10:44:28.637556
+Temp = 25.2*C
+Hum = 44.9%
+20250326 10:44:33.892511
+Temp = 25.2*C
+Hum = 45.0%
+20250326 10:44:39.146348
+Temp = 25.2*C
+Hum = 44.9%
+20250326 10:44:44.400167
+Temp = 25.2*C
+Hum = 44.9%
+20250326 10:44:49.653897
+Temp = 25.2*C
+Hum = 44.8%
+20250326 10:44:54.907707
+Temp = 25.3*C
+Hum = 44.9%
+20250326 10:45:00.164703
+Temp = 25.3*C
+Hum = 44.8%
+20250326 10:45:05.418544
+Temp = 25.3*C
+Hum = 44.8%
+20250326 10:45:10.672371
+Temp = 25.3*C
+Hum = 44.7%
+20250326 10:45:15.926230
+Temp = 25.2*C
+Hum = 44.8%
+20250326 10:45:21.180121
+Temp = 25.3*C
+Hum = 44.7%
+20250326 10:45:26.433970
+Temp = 25.3*C
+Hum = 44.8%
+20250326 10:45:31.687866
+Temp = 25.3*C
+Hum = 44.7%
+20250326 10:45:36.943895
+Temp = 25.3*C
+Hum = 44.7%
+20250326 10:45:42.197577
+Temp = 25.3*C
+Hum = 44.7%
+20250326 10:45:47.451423
+Temp = 25.3*C
+Hum = 44.7%
+20250326 10:45:52.705352
+Temp = 25.3*C
+Hum = 44.7%
+20250326 10:45:57.959219
+Temp = 25.3*C
+Hum = 44.7%
+20250326 10:46:03.213017
+Temp = 25.2*C
+Hum = 44.7%
+20250326 10:46:08.466872
+Temp = 25.2*C
+Hum = 44.7%
+20250326 10:46:13.720698
+Temp = 25.2*C
+Hum = 44.7%
+20250326 10:46:18.974387
+Temp = 25.3*C
+Hum = 44.7%
+20250326 10:46:24.231410
+Temp = 25.2*C
+Hum = 44.7%
+20250326 10:46:29.485284
+Temp = 25.2*C
+Hum = 44.7%
+20250326 10:46:34.739093
+Temp = 25.2*C
+Hum = 44.7%
+20250326 10:46:39.992917
+Temp = 25.2*C
+Hum = 44.7%
+20250326 10:46:45.246592
+Temp = 25.2*C
+Hum = 44.7%
+20250326 10:46:50.500459
+Temp = 25.2*C
+Hum = 44.7%
+20250326 10:46:55.754338
+Temp = 25.2*C
+Hum = 44.7%
+20250326 10:47:01.008162
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:47:06.265172
+Temp = 25.2*C
+Hum = 44.8%
+20250326 10:47:11.518979
+Temp = 25.2*C
+Hum = 44.8%
+20250326 10:47:16.772848
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:47:22.029986
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:47:27.283686
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:47:32.537503
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:47:37.791332
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:47:43.045081
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:47:48.302174
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:47:53.556057
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:47:58.809916
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:48:04.063701
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:48:09.317409
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:48:14.571241
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:48:19.825077
+Temp = 25.2*C
+Hum = 44.9%
+20250326 10:48:25.078764
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:48:30.335846
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:48:35.589746
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:48:40.843595
+Temp = 25.2*C
+Hum = 44.9%
+20250326 10:48:46.100589
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:48:51.354356
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:48:56.608240
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:49:01.862041
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:49:07.115722
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:49:12.369428
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:49:17.623290
+Temp = 25.2*C
+Hum = 44.8%
+20250326 10:49:22.877167
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:49:28.130896
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:49:33.387932
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:49:38.641790
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:49:43.895627
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:49:49.149485
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:49:54.406501
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:49:59.660455
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:50:04.914280
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:50:10.168009
+Temp = 25.2*C
+Hum = 44.9%
+20250326 10:50:15.421841
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:50:20.675676
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:50:25.932642
+Temp = 25.2*C
+Hum = 44.8%
+20250326 10:50:31.186330
+Temp = 25.2*C
+Hum = 44.8%
+20250326 10:50:36.440077
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:50:41.693949
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:50:46.947811
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:50:52.201492
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:50:57.455268
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:51:02.709221
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:51:07.963060
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:51:13.216756
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:51:18.473782
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:51:23.727660
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:51:28.981483
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:51:34.235214
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:51:39.489028
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:51:44.742886
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:51:49.996703
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:51:55.250460
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:52:00.504360
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:52:05.758289
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:52:11.012156
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:52:16.269191
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:52:21.522971
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:52:26.780031
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:52:32.033874
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:52:37.287644
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:52:42.541559
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:52:47.795448
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:52:53.049317
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:52:58.303035
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:53:03.556903
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:53:08.810808
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:53:14.064701
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:53:19.318547
+Temp = 25.1*C
+Hum = 44.8%
+20250326 10:53:24.572444
+Temp = 25.1*C
+Hum = 44.9%
+20250326 10:53:29.826330
+Temp = 25.0*C
+Hum = 44.8%
+20250326 10:53:35.080208
+Temp = 25.0*C
+Hum = 44.9%
+20250326 10:53:40.334074
+Temp = 25.0*C
+Hum = 44.9%
+20250326 10:53:45.587952
+Temp = 25.0*C
+Hum = 45.0%
+20250326 10:53:50.841848
+Temp = 25.0*C
+Hum = 44.9%
+20250326 10:53:56.095720
+Temp = 25.0*C
+Hum = 45.0%
+20250326 10:54:01.349542
+Temp = 25.0*C
+Hum = 45.0%
+20250326 10:54:06.603344
+Temp = 25.0*C
+Hum = 45.0%
+20250326 10:54:11.857229
+Temp = 24.9*C
+Hum = 45.0%
+20250326 10:54:17.111103
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:54:22.364910
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:54:27.622123
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:54:32.878180
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:54:38.132064
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:54:43.389336
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:54:48.643159
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:54:53.900347
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:54:59.154221
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:55:04.407936
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:55:09.661772
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:55:14.915633
+Temp = 24.9*C
+Hum = 45.3%
+20250326 10:55:20.169488
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:55:25.423261
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:55:30.677053
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:55:35.930902
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:55:41.184787
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:55:46.439877
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:55:51.694294
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:55:56.948609
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:56:02.202988
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:56:07.460923
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:56:12.715024
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:56:17.969178
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:56:23.223367
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:56:28.479653
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:56:33.794971
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:56:39.049093
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:56:44.303202
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:56:49.557035
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:56:54.810918
+Temp = 25.0*C
+Hum = 45.2%
+20250326 10:57:00.064776
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:57:05.318555
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:57:10.572373
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:57:15.826243
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:57:21.080169
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:57:26.336367
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:57:31.590873
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:57:36.848447
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:57:42.102410
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:57:47.356421
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:57:52.610251
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:57:57.864269
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:58:03.118359
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:58:08.372424
+Temp = 25.0*C
+Hum = 45.1%
+20250326 10:58:13.626381
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:58:18.880390
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:58:24.134323
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:58:29.391664
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:58:34.645490
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:58:39.899427
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:58:45.153303
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:58:50.407339
+Temp = 24.9*C
+Hum = 45.1%
+20250326 10:58:55.661194
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:59:00.915087
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:59:06.168936
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:59:11.422816
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:59:16.676606
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:59:21.930497
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:59:27.184221
+Temp = 24.9*C
+Hum = 45.3%
+20250326 10:59:32.438063
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:59:37.692015
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:59:42.945967
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:59:48.199886
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:59:53.453792
+Temp = 24.9*C
+Hum = 45.2%
+20250326 10:59:58.707753
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:00:03.961660
+Temp = 24.8*C
+Hum = 45.2%
+20250326 11:00:09.215488
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:00:14.469385
+Temp = 24.9*C
+Hum = 45.3%
+20250326 11:00:19.723312
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:00:24.977173
+Temp = 24.9*C
+Hum = 45.3%
+20250326 11:00:30.231158
+Temp = 24.9*C
+Hum = 45.3%
+20250326 11:00:35.485067
+Temp = 24.9*C
+Hum = 45.3%
+20250326 11:00:40.739032
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:00:45.996200
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:00:51.250018
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:00:56.503874
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:01.757766
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:07.011746
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:12.265660
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:17.519634
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:22.773634
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:28.027595
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:33.281366
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:38.535375
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:43.792837
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:49.046693
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:54.300524
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:01:59.554537
+Temp = 24.9*C
+Hum = 45.1%
+20250326 11:02:04.808583
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:02:10.062493
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:02:15.316401
+Temp = 24.9*C
+Hum = 45.1%
+20250326 11:02:20.570419
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:02:25.824443
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:02:31.078545
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:02:36.335724
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:02:41.589735
+Temp = 24.9*C
+Hum = 45.3%
+20250326 11:02:46.843748
+Temp = 24.9*C
+Hum = 45.3%
+20250326 11:02:52.097799
+Temp = 24.9*C
+Hum = 45.2%
+20250326 11:02:57.351758
+Temp = 24.9*C
+Hum = 45.3%
+20250326 11:03:02.605976
+Temp = 24.9*C
+Hum = 45.3%
+20250326 11:03:07.859784
+Temp = 24.9*C
+Hum = 45.3%
+20250326 11:03:13.113579
+Temp = 24.8*C
+Hum = 45.3%
+20250326 11:03:18.367468
+Temp = 24.8*C
+Hum = 45.3%
+20250326 11:03:23.621398
+Temp = 24.9*C
+Hum = 45.3%
+20250326 11:03:28.875285
+Temp = 24.8*C
+Hum = 45.3%
+20250326 11:03:34.129019
+Temp = 24.8*C
+Hum = 45.3%
+20250326 11:03:39.382747
+Temp = 24.8*C
+Hum = 45.3%
+20250326 11:03:44.636625
+Temp = 24.8*C
+Hum = 45.3%
+20250326 11:03:49.890450
+Temp = 24.8*C
+Hum = 45.4%
+20250326 11:03:55.144178
+Temp = 24.8*C
+Hum = 45.4%
+Shutdown Detected
+File Already Exists
+20250326 11:05:29.997265
+Timesync failed: 1
+Temp = 24.3*C
+Hum = 46.5%
+20250326 11:05:35.437299
+Timesync failed: 2
+Temp = 24.4*C
+Hum = 46.5%
+20250326 11:05:40.708793
+Timesync failed: 3
+Temp = 24.4*C
+Hum = 46.4%
+20250326 11:05:45.982242
+Timesync failed: 4
+Temp = 24.4*C
+Hum = 46.4%
+20250326 11:05:51.295167
+Timesync failed: 5
+Timesync failed. Restarting service
+Temp = 24.4*C
+Hum = 46.4%
+20250326 11:12:18.987821
+Temp = 24.4*C
+Hum = 46.4%
+20250326 11:12:24.284852
+Temp = 24.4*C
+Hum = 46.4%
+20250326 11:12:29.538525
+Temp = 24.4*C
+Hum = 46.4%
+20250326 11:12:34.792218
+Temp = 24.4*C
+Hum = 46.4%
+20250326 11:12:40.046089
+Temp = 24.4*C
+Hum = 46.4%
+20250326 11:12:45.299954
+Temp = 24.4*C
+Hum = 46.4%
+20250326 11:12:50.553843
+Temp = 24.4*C
+Hum = 46.3%
+Recieved Keyboard Interrupt
+Traceback (most recent call last):
+  File "/home/pi/Documents/TempLogger/enviro_logger.py", line 114, in <module>
+    time.sleep(5)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Documents/TempLogger/enviro_logger.py", line 119, in <module>
+    log.close()
+KeyboardInterrupt
