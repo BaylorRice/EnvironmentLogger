@@ -22,4 +22,4 @@ New Pi setup coming soon(tm)
 4. Run the "kill_logger.sh" script to stop the logger (starts running on startup).
 5. Download the log to your local computer using SCP or a program like Visual Studio
 
-For help, contact Reese Ford, the owner of this repository.
+For help, contact reese_ford1@baylor.edu, the owner of this repository.
