@@ -23,3 +23,5 @@ New Pi setup coming soon(tm)
 5. Download the log to your local computer using SCP or a program like Visual Studio
 
 For help, contact reese_ford1@baylor.edu, the owner of this repository.
+
+This is a test for branch rulesets
