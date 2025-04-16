@@ -3,5 +3,5 @@
 # Navigate to home directory, then this directory, then execute python script
 
 cd /
-cd /home/pi/Documents/TempLogger
+cd /home/pi/Documents/EnvironmentLogger
 sudo python enviro_logger.py >> output.log 2>&1
